@@ -1,0 +1,63 @@
+/* Filametric brand colors */
+:root {
+  --md-primary-fg-color: #1a1a1a;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark: #000000;
+  --md-accent-fg-color: #ff6b00;
+  --md-accent-fg-color--transparent: #ff6b001a;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1a1a1a;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark: #000000;
+  --md-accent-fg-color: #ff6b00;
+  --md-accent-fg-color--transparent: #ff6b001a;
+}
+
+/* Style admonitions to match Filametric look */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: #ff6b00;
+}
+
+.md-typeset .warning > .admonition-title,
+.md-typeset .warning > summary {
+  background-color: #ff6b001a;
+  border-color: #ff6b00;
+}
+
+/* Parts list styling */
+.parts-list {
+  background: var(--md-code-bg-color);
+  border-radius: 8px;
+  padding: 16px 24px;
+  margin: 16px 0;
+}
+
+.parts-list h4 {
+  margin-top: 0;
+  color: var(--md-accent-fg-color);
+}
+
+/* Step images */
+.step-image {
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  margin: 16px 0;
+}
+
+/* Assembly step layout */
+.assembly-step {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+  margin: 24px 0;
+}
+
+@media (max-width: 768px) {
+  .assembly-step {
+    grid-template-columns: 1fr;
+  }
+}
