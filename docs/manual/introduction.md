@@ -1,5 +1,7 @@
 # Assembly Manual
 
+![The Filametric DryBase](../images/manual/introduction/introduction-drybase.png)
+
 The DryBase was designed for one purpose: to dry filament properly. Not just warm it up, but actually remove moisture, at temperatures high enough to make a real difference for engineering-grade materials. At the same time, we wanted it to stay compact and compatible with the well-known affordable cereal containers the community already loves. The result is DryBase.
 
 These instructions will guide you through the full assembly process, step by step. Each chapter covers a distinct part of the build, and every step includes reference images so you always know what a correct result looks like.
@@ -25,7 +27,3 @@ You will need a clean, flat surface and about **3 hours** to complete all chapte
 !!! note "Need help?"
     If you run into any issues, reach out at [support@filametric.com](mailto:support@filametric.com). We're happy to help.
 
----
-
-**Alexander Nieuwland**<br>
-Founder & CEO of Filametric
