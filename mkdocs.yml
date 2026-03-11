@@ -30,6 +30,7 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
+    - navigation.tabs
     - navigation.top
     - navigation.tracking
     - search.suggest

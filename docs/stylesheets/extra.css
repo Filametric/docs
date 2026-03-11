@@ -47,14 +47,14 @@
   margin: 16px 0;
 }
 
-/* Hide the sidebar navigation */
-.md-sidebar--primary {
+/* Hide top-level nav items in sidebar (already in top navbar) */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
   display: none;
 }
 
-/* Make content full width without sidebar */
-.md-content {
-  margin-left: 0;
+/* Hide the site title in sidebar */
+.md-nav--primary > .md-nav__title {
+  display: none;
 }
 
 /* Assembly step layout */
