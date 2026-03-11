@@ -1,3 +1,5 @@
+[:octicons-arrow-left-24: Chapter 1: Unboxing](chapter-1-unboxing.md){ .md-button }
+
 # Chapter 2: Preparing the DryBase housing
 
 After printing your DryBase housing, it needs to be cleaned up before assembly. This chapter covers removing all support material.
@@ -29,4 +31,4 @@ With all supports removed, your housing should be clean and ready for assembly.
 
 ---
 
-[:octicons-arrow-left-24: Chapter 1: Unboxing](chapter-1-unboxing.md){ .md-button } [:octicons-arrow-right-24: Chapter 3: Housing assembly](chapter-3-housing-assembly.md){ .md-button .md-button--primary }
+[:octicons-arrow-right-24: Chapter 3: Housing assembly](chapter-3-housing-assembly.md){ .md-button .md-button--primary }

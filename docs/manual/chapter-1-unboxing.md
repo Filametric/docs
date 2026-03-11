@@ -1,3 +1,5 @@
+[:octicons-arrow-left-24: Introduction](introduction.md){ .md-button }
+
 # Chapter 1: Unboxing & checking components
 
 Before you begin assembly, unbox your DryBase kit and verify that all components are present. Lay everything out on a clean, flat surface.
@@ -37,4 +39,4 @@ From left to right, top to bottom:
 
 ---
 
-[:octicons-arrow-left-24: Introduction](introduction.md){ .md-button } [:octicons-arrow-right-24: Chapter 2: Preparing the housing](chapter-2-preparing-housing.md){ .md-button .md-button--primary }
+[:octicons-arrow-right-24: Chapter 2: Preparing the housing](chapter-2-preparing-housing.md){ .md-button .md-button--primary }
