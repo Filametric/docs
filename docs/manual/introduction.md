@@ -1,6 +1,6 @@
 # Assembly Manual
 
-![The Filametric DryBase](../images/manual/introduction/introduction-drybase.JPG)
+![The Filametric DryBase](../images/manual/introduction/introduction-drybase.webp)
 
 The DryBase was designed for one purpose: to dry filament properly. Not just warm it up, but actually remove moisture, at temperatures high enough to make a real difference for engineering-grade materials. At the same time, we wanted it to stay compact and compatible with the well-known affordable cereal containers the community already loves. The result is DryBase.
 
