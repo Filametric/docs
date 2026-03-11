@@ -62,8 +62,8 @@ nav:
   - Home: index.md
   - Assembly Manual:
     - Introduction: manual/introduction.md
-    - "1. Unboxing & checking components": manual/chapter-1-unboxing.md
-    - "2. Preparing the DryBase housing": manual/chapter-2-preparing-housing.md
+    - "1. Unboxing & checklist": manual/chapter-1-unboxing.md
+    - "2. Preparing the housing": manual/chapter-2-preparing-housing.md
     - "3. Housing assembly": manual/chapter-3-housing-assembly.md
     - "4. Heating unit assembly": manual/chapter-4-heating-unit-assembly.md
     - "5. DryBase assembly": manual/chapter-5-drybase-assembly.md
