@@ -30,8 +30,6 @@ In this chapter you will assemble the housing, installing the power supply unit 
 
 ![Press down firmly](../images/manual/ch3/ch3-step1-press-down.webp)
 
-### Result
-
 The images below show how the correctly installed inlet looks from the outside and the inside of the housing.
 
 ![Result outside](../images/manual/ch3/ch3-step1-result-outside.webp)
@@ -43,4 +41,43 @@ The images below show how the correctly installed inlet looks from the outside a
 
 ---
 
-<!-- Steps 2+ will be added as content is provided -->
+## Step 2: Installing the exhaust fan
+
+**You will need:**
+
+- Housing assembly (from the previous step)
+- Exhaust fan (from the Exhaust fan bag)
+- 1x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
+- Microfiber cloth
+- Phillips screwdriver
+
+![Step 2 parts](../images/manual/ch3/ch3-step2-parts.webp)
+
+![Exhaust fan and screw](../images/manual/ch3/ch3-step2-fan-closeup.webp)
+
+**a.** Before installing the fan, route its cable so it runs flat along the side of the fan housing, not sticking out from the front. The cable should be tucked neatly against the fan body, not protruding outward.
+
+![Cable wrong](../images/manual/ch3/ch3-step2-cable-wrong.webp)
+
+![Cable correct](../images/manual/ch3/ch3-step2-cable-correct.webp)
+
+**b.** Press the fan into the dedicated pocket at the back of the housing. Inserting it at a slight angle first, then pushing it flat, makes this easier. **Make sure the fan sticker is facing outward, towards the back of the housing.**
+
+![Insert fan into pocket](../images/manual/ch3/ch3-step2-insert-fan.webp)
+
+Once seated, ensure the cables are routed along the inside wall of the housing and are not pinched between the fan and the housing.
+
+![Cable routing overview](../images/manual/ch3/ch3-step2-cable-routing-1.webp)
+
+![Cable routing close-up](../images/manual/ch3/ch3-step2-cable-routing-2.webp)
+
+**c.** Secure the fan using the 2.9 x 16mm flat-headed screw and your Phillips screwdriver.
+
+![Secure fan with screw](../images/manual/ch3/ch3-step2-screw.webp)
+
+!!! warning "Do not overtighten"
+    The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the fan sits firmly in place.
+
+---
+
+<!-- Steps 3+ will be added as content is provided -->
