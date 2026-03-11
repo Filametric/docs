@@ -1,4 +1,4 @@
-# Assembly Manual
+# Introduction
 
 ![The Filametric DryBase](../images/manual/introduction/introduction-drybase.webp)
 
