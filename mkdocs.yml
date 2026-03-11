@@ -10,7 +10,7 @@ copyright: Copyright &copy; 2026 Filametric B.V.
 
 theme:
   name: material
-  # logo: images/filametric-logo.png       # Uncomment and add your logo
+  logo: images/logo.svg
   favicon: images/favicon.svg
   palette:
     - scheme: default
