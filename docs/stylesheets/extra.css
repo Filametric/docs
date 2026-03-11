@@ -47,11 +47,14 @@
   margin: 16px 0;
 }
 
-/* Keep custom navbar always visible */
-.md-tabs {
-  position: sticky;
-  top: 0;
-  z-index: 2;
+/* Hide the sidebar navigation */
+.md-sidebar--primary {
+  display: none;
+}
+
+/* Make content full width without sidebar */
+.md-content {
+  margin-left: 0;
 }
 
 /* Assembly step layout */
