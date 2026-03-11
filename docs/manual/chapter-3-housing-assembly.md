@@ -306,4 +306,110 @@ Confirm that the assembly matches the image below before continuing.
 
 ---
 
-<!-- Steps 9+ will be added as content is provided -->
+## Step 9: Installing the display assembly into the housing
+
+**You will need:**
+
+- Housing assembly (from a previous step)
+- Display assembly (from the previous step)
+- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Microfiber cloth
+- Phillips screwdriver
+
+![Step 9 parts](../images/manual/ch3/ch3-step9-parts.webp)
+
+**a.** Remove the protective film from the self-adhesive tape on the back of the display, as shown in the image below.
+
+![Peel protective film](../images/manual/ch3/ch3-step9-peel-film.webp)
+
+**b.** Hold the display in your left hand and the Main board in your right. Pass both cables through the front opening of the housing, as shown in the image below.
+
+![Hold display through opening](../images/manual/ch3/ch3-step9-hold-display.webp)
+
+!!! note "Keep the cables safe"
+    Keep the touch cables as straight as possible and the FPC connectors and their cables away from damage. Do not bend or crease them.
+
+**c.** While still holding the display with your left hand, insert the Main board into the housing at an angle. Align the top edge of the board flush with the top edge of the housing, as indicated by the top red arrow in the image below. At the same time, align the USB-C connector of the board with its dedicated slot in the housing, as indicated by the bottom red arrow.
+
+![Insert board into housing](../images/manual/ch3/ch3-step9-insert-board.webp)
+
+**d.** Once everything is correctly aligned, apply light pressure with your finger on the bottom of the board as indicated by the arrow in the image below, until it snaps into place. A clear click should be heard when it is fully seated.
+
+![Snap board into place](../images/manual/ch3/ch3-step9-snap-board.webp)
+
+**e.** Confirm that the Main board is flush with the housing and that the USB-C port is correctly seated in its slot. Then, using your Phillips screwdriver, secure the Main board with both 2.9 x 6.5mm flat-headed screws as shown in the image below. Continue holding the display in place with your left hand while tightening.
+
+!!! warning "Do not overtighten"
+    The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the Main board sits firmly in place.
+
+![Screw board in place](../images/manual/ch3/ch3-step9-screw-board.webp)
+
+The image below shows how the assembly should look after both screws are tightened.
+
+![Screws done](../images/manual/ch3/ch3-step9-screws-done.webp)
+
+**f.** Flip the display over so it faces up, aligning its left edge flush with the left side of the housing, as shown in the image below.
+
+![Flip display](../images/manual/ch3/ch3-step9-flip-display.webp)
+
+**g.** Gently press along all four sides of the display (left, right, top, and bottom) to firmly bond the double-sided tape to the housing, as shown in the images below.
+
+![Press display edges](../images/manual/ch3/ch3-step9-press-display.webp)
+
+**h.** Confirm that the display sits flush with the housing on all sides and that the USB-C port is correctly accessible through the housing slot, as shown in the images below.
+
+![USB-C port check](../images/manual/ch3/ch3-step9-usb-check.webp)
+
+![Final result](../images/manual/ch3/ch3-step9-result.webp)
+
+---
+
+## Step 10: Connecting the Main board to the Power board and securing the Power board
+
+**You will need:**
+
+- Housing assembly (from a previous step)
+- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Phillips screwdriver
+
+**a.** Locate the 8-pin cable coming from the Main board and insert it into the connector labeled **'MAIN'** on the Power board. A clear click should be heard when fully seated. Give the cable a gentle tug to confirm it is secure.
+
+![Main cable connection](../images/manual/ch3/ch3-step10-main-cable.webp)
+
+**b.** Insert the Power board into the dedicated slot in the housing at a slight angle, as indicated by the red arrow in the image below.
+
+!!! warning "Check your cables"
+    Before pressing it into place, make sure no cables are running behind the board. Trapped cables can cause connection issues or damage components.
+
+![Insert power board](../images/manual/ch3/ch3-step10-insert-board.webp)
+
+**c.** Once the board is correctly seated, align both mounting holes and secure the Power board using the two 2.9 x 6.5mm flat-headed screws. Angling the screwdriver slightly may help reach the holes more easily.
+
+!!! warning "Do not overtighten"
+    The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the Power board sits firmly in place.
+
+![Screw power board](../images/manual/ch3/ch3-step10-screw-board.webp)
+
+**d.** Confirm that the cables are routed as shown in the images below before continuing.
+
+![Cable routing check close-up](../images/manual/ch3/ch3-step10-cable-check-1.webp)
+
+![Cable routing check overview](../images/manual/ch3/ch3-step10-cable-check-2.webp)
+
+---
+
+You have completed the housing assembly. The DryBase housing is now fully assembled with all electronics installed and connected. Before continuing to the next chapter, take a moment to verify the following:
+
+- All cables are routed along the inside walls and none are pinched or trapped
+- The display sits flush with the housing on all sides
+- The USB-C port is accessible through its slot
+- The main and power board are each secured with two screws
+- The rubber feet are firmly seated in all four corners
+
+In the next chapter, you will assemble the **heating unit**.
+
+![Completed housing assembly](../images/manual/ch3/ch3-step10-complete.webp)
+
+---
+
+[:octicons-arrow-right-24: Chapter 4: Heating unit assembly](chapter-4-heating-unit-assembly.md){ .md-button .md-button--primary }
