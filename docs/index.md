@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Filametric Documentation
 
 Welcome to the official documentation for the **Filametric DryBase**.

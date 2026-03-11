@@ -10,6 +10,7 @@ copyright: Copyright &copy; 2026 Filametric B.V.
 
 theme:
   name: material
+  custom_dir: overrides
   # logo: images/filametric-logo.png       # Uncomment and add your logo
   # favicon: images/favicon.png             # Uncomment and add your favicon
   palette:
