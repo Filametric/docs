@@ -47,6 +47,11 @@
   margin: 16px 0;
 }
 
+/* Prevent tabs from overflowing and hiding */
+.md-tabs__list {
+  flex-wrap: wrap;
+}
+
 /* Assembly step layout */
 .assembly-step {
   display: grid;
