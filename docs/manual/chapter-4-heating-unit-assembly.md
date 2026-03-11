@@ -131,4 +131,103 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 
 ---
 
-<!-- Steps 3+ will be added as content is provided -->
+## Step 3: Installing the blower fan, container adapter and hot air exhaust port
+
+**You will need:**
+
+- Heating unit assembly (from the previous step)
+- Blower fan bag
+- Container adapter part (from the Heating unit parts bag; the round black part shown in the top left corner of the image below)
+- Hot air exhaust port (from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)
+- 1x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
+- 2x 3.9 x 25mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
+- Adhesives bag (not in the picture below)
+- Microfiber cloth
+- Phillips screwdriver
+
+![Step 3 parts](../images/manual/ch4/ch4-step3-parts.webp)
+
+**a.** Remove the blower fan from its bag and place it onto the heating unit assembly, aligning it with the two mounting holes on the baseplate as shown in the images below. Make sure the fan label is facing downward, towards the baseplate.
+
+![Fan placement](../images/manual/ch4/ch4-step3-fan-placement.webp)
+
+**b.** Using the 2x 3.9 x 25mm flat-headed screws and your Phillips screwdriver, secure the blower fan to the baseplate through both mounting holes.
+
+!!! warning "Do not overtighten"
+    The baseplate is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the blower fan sits firmly in place.
+
+![Fan screwing](../images/manual/ch4/ch4-step3-fan-screwing.webp)
+
+Confirm the fan is correctly secured as shown in the image below.
+
+![Fan secured](../images/manual/ch4/ch4-step3-fan-secured.webp)
+
+**c.** Take the tie wrap from the Blower fan bag and slide it through the dedicated slot on the baseplate from the left side, as shown in the images below.
+
+![Tie wrap slot](../images/manual/ch4/ch4-step3-tiewrap-slot.webp)
+
+**d.** Pass the blower fan cable through the tie wrap. Pull the tie wrap tight enough to secure the cable against the baseplate, then trim off the excess with scissors or pliers. Make sure there is no excess slack on the right side of the fan. The goal is to keep the cable routed neatly along the left side.
+
+![Cable tie wrap](../images/manual/ch4/ch4-step3-cable-tiewrap.webp)
+
+Refer to the image below for the correct result.
+
+![Cable routing correct vs incorrect](../images/manual/ch4/ch4-step3-cable-routing.webp)
+
+**e.** Remove the container adapter and hot air exhaust port from the Heating unit parts bag and place them on the microfiber cloth as shown in the image below.
+
+![Adapter and exhaust port parts](../images/manual/ch4/ch4-step3-adapter-exhaust-parts.webp)
+
+**f.** Turn the container adapter upside down so the two holes are facing upward. Insert the hot air exhaust port into the container adapter. Note that there is only one correct orientation in which it will fit. Do not force it.
+
+!!! warning "Do not force the exhaust port into the adapter"
+    If it does not slide in easily, rotate it and try again. There is only one orientation in which it fits correctly.
+
+![Exhaust port insert](../images/manual/ch4/ch4-step3-exhaust-insert.webp)
+
+The tabs of the hot air exhaust port should sit fully flush with the bottom face of the container adapter, as shown in the image below. The other side should look like the second image below.
+
+![Exhaust flush bottom](../images/manual/ch4/ch4-step3-exhaust-flush-bottom.webp)
+
+![Exhaust flush top](../images/manual/ch4/ch4-step3-exhaust-flush-top.webp)
+
+**g.** Take the assembled container adapter and place it onto the heating unit assembly, aligning it with the opening in the baseplate. The exhaust port should be facing towards you as shown in the images below.
+
+![Adapter placement](../images/manual/ch4/ch4-step3-adapter-placement.webp)
+
+**h.** While holding the assembly in place, secure the container adapter using the 2x 2.9 x 16mm flat-headed screws, one on each side, using your Phillips screwdriver.
+
+!!! warning "Do not overtighten"
+    The container adapter is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the container adapter sits firmly in place.
+
+![Adapter screwing](../images/manual/ch4/ch4-step3-adapter-screwing.webp)
+
+**i.** Verify that all parts are correctly aligned with the baseplate and that no visible gaps exist between any of the components. The images below show a correctly assembled result.
+
+![Verify side](../images/manual/ch4/ch4-step3-verify-side.webp)
+
+![Verify front](../images/manual/ch4/ch4-step3-verify-front.webp)
+
+**j.** Remove the 'caution hot surface' sticker from the Adhesives bag and apply it to the top of the baseplate, centered between the container adapter and the edge of the plate, as shown in the image below.
+
+![Caution sticker](../images/manual/ch4/ch4-step3-sticker.webp)
+
+---
+
+**Congratulations!** You have completed the Heating Unit Assembly.
+
+The heating unit is now fully assembled and ready to be connected to the housing. Before continuing to the next chapter, take a moment to verify the following:
+
+- [x] The blower fan is secured with two screws and the cable is neatly routed with the tie wrap
+- [x] The hot air exhaust port sits flush within the container adapter with no visible gap
+- [x] The container adapter is secured with two screws and sits flush against the baseplate
+- [x] The 'caution hot surface' sticker is applied to the top of the baseplate
+- [x] No visible gaps exist between any of the components
+
+In the next chapter, you will connect the heating unit to the housing to complete your **DryBase**.
+
+![Chapter 4 result](../images/manual/ch4/ch4-result.webp)
+
+---
+
+[:octicons-arrow-right-24: Chapter 5: DryBase assembly](chapter-5-drybase-assembly.md){ .md-button .md-button--primary }
