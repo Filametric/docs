@@ -6,16 +6,18 @@ The DryBase was designed for one purpose: to dry filament properly. Not just war
 
 These instructions will guide you through the full assembly process, step by step. Each chapter covers a distinct part of the build, and every step includes reference images so you always know what a correct result looks like.
 
-## Chapters
+## What's ahead
 
-| | Chapter |
-|---|---------|
-| 1 | [Unboxing & checking components](chapter-1-unboxing.md) |
-| 2 | [Preparing the DryBase housing](chapter-2-preparing-housing.md) |
-| 3 | [Housing assembly](chapter-3-housing-assembly.md) |
-| 4 | [Heating unit assembly](chapter-4-heating-unit-assembly.md) |
-| 5 | [DryBase assembly](chapter-5-drybase-assembly.md) |
-| 6 | [Drybox assembly](chapter-6-drybox-assembly.md) |
+The assembly is split into six chapters. You'll start by checking your kit contents, then work your way through preparing, building, and finally putting everything together.
+
+| | Chapter | What you'll do |
+|---|---------|---------------|
+| 1 | [Unboxing & checking components](chapter-1-unboxing.md) | Verify your kit contents and gather tools |
+| 2 | [Preparing the DryBase housing](chapter-2-preparing-housing.md) | Install heat-set inserts and prep the printed parts |
+| 3 | [Housing assembly](chapter-3-housing-assembly.md) | Assemble the main housing structure |
+| 4 | [Heating unit assembly](chapter-4-heating-unit-assembly.md) | Build the heating unit |
+| 5 | [DryBase assembly](chapter-5-drybase-assembly.md) | Combine housing and heating unit into the final DryBase |
+| 6 | [Drybox assembly](chapter-6-drybox-assembly.md) | Set up the drybox container |
 
 ## Before you begin
 
@@ -27,3 +29,6 @@ You will need a clean, flat surface and about **3 hours** to complete all chapte
 !!! note "Need help?"
     If you run into any issues, reach out at [support@filametric.com](mailto:support@filametric.com). We're happy to help.
 
+---
+
+[:octicons-arrow-right-24: Continue to Chapter 1: Unboxing & checking components](chapter-1-unboxing.md){ .md-button .md-button--primary }
