@@ -61,4 +61,74 @@ Confirm that the assembly matches the images below before continuing.
 
 ---
 
-<!-- Steps 2+ will be added as content is provided -->
+## Step 2: Installing the heating element assembly onto the baseplate
+
+**You will need:**
+
+- Heating element assembly (from the previous step)
+- Heating unit baseplate (from the Heating unit parts bag; the flat black rectangular plate)
+- 6x M3 x 12mm hex bolt (DIN 7984; from the Screws / Fasteners bag)
+- 6x M3 nylon nut (DIN 985; from the Screws / Fasteners bag)
+- Microfiber cloth
+- 2mm hex/allen key
+
+![Step 2 parts](../images/manual/ch4/ch4-step2-parts.webp)
+
+**a.** Place the baseplate on the microfiber cloth with the nut pockets facing up. Locate all six nut pockets as indicated by the red circles in the image below.
+
+![Nut pockets](../images/manual/ch4/ch4-step2-nut-pockets.webp)
+
+**b.** Take the 6x M3 nylon nuts and partially insert one into each pocket, with the pointed end facing outward as shown in the images below.
+
+!!! warning "Correct orientation"
+    Insert the nuts in the correct orientation before pushing them in fully. Once fully seated, they cannot be removed. Refer to the images below for the correct orientation.
+
+![Nut partially inserted](../images/manual/ch4/ch4-step2-nut-insert.webp)
+
+![Nut orientation](../images/manual/ch4/ch4-step2-nut-orientation.webp)
+
+**c.** Push each nut fully into its pocket using a screwdriver to apply gentle pressure. **Do not use excessive force.** Press until the nut sits flush and the threaded hole is aligned with the bolt hole in the pocket.
+
+!!! warning "Do not scratch or damage the surrounding surface"
+    When using the screwdriver to push the nuts in, apply pressure directly onto the nut only.
+
+![Push nut with screwdriver](../images/manual/ch4/ch4-step2-push-nut.webp)
+
+**d.** Verify that all six nuts are fully seated. The nut should not be visible from above, only the threaded hole should remain visible, aligned with the bolt hole, as shown in the images below.
+
+![Nut check](../images/manual/ch4/ch4-step2-nut-check.webp)
+
+**e.** Pick up the heating element assembly and position it onto the baseplate, inserting the left side first as shown in the image below. Once the left side is aligned, lower the right side down until the assembly sits flat on the baseplate.
+
+![Place assembly on baseplate](../images/manual/ch4/ch4-step2-place-assembly.webp)
+
+Once released, confirm it sits flat and all mounting holes are aligned, as shown in the image below.
+
+![Assembly aligned](../images/manual/ch4/ch4-step2-aligned.webp)
+
+**f.** Apply light pressure across the assembly to ensure full contact with the baseplate.
+
+![Press down](../images/manual/ch4/ch4-step2-press-down.webp)
+
+**g.** Confirm the assembly is correctly seated by checking both connection points as shown in the images below. The heating element enclosure should sit flush against the baseplate with no visible gap on either side.
+
+![Seat check](../images/manual/ch4/ch4-step2-seat-check.webp)
+
+**h.** Using the 2mm hex/allen key, insert and tighten all six M3 x 12mm hex bolts in the order indicated in the image below (1 to 6).
+
+!!! warning "Do not overtighten"
+    The nylon nuts are seated in 3D-printed pockets. Excessive force can cause them to spin and lose their grip. The nylon locking insert already provides sufficient holding force. **Tighten until snug and stop.**
+
+![Bolt with allen key](../images/manual/ch4/ch4-step2-bolt-allen.webp)
+
+![Bolt order](../images/manual/ch4/ch4-step2-bolt-order.webp)
+
+**i.** Verify that all sides are flush and no visible gap exists between the top and bottom covers of the heating element enclosure. The images below show a correctly assembled result.
+
+![Verify front](../images/manual/ch4/ch4-step2-verify-1.webp)
+
+![Verify side](../images/manual/ch4/ch4-step2-verify-2.webp)
+
+---
+
+<!-- Steps 3+ will be added as content is provided -->
