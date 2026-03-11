@@ -1,3 +1,3 @@
-# Filametric Studio
+# DryBase Firmware
 
 <!-- TODO: Add content -->

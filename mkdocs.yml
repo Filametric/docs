@@ -1,6 +1,6 @@
 site_name: Filametric Docs
 site_url: https://docs.filametric.com
-site_description: Assembly instructions and documentation for the Filametric DryBase
+site_description: Documentation for the Filametric DryBase
 site_author: Filametric B.V.
 
 repo_url: https://github.com/filametric/docs
@@ -69,9 +69,18 @@ nav:
     - Chapter 4 — Heating Unit Assembly: manual/chapter-4-heating-unit-assembly.md
     - Chapter 5 — DryBase Assembly: manual/chapter-5-drybase-assembly.md
     - Chapter 6 — Drybox Assembly: manual/chapter-6-drybox-assembly.md
+  - DryBase Firmware:
+    - Overview: firmware/overview.md
+    - Getting Started: firmware/getting-started.md
+    - Updating: firmware/updating.md
+    - Changelog: firmware/changelog.md
   - Filametric Studio:
     - Overview: studio/overview.md
+    - Getting Started: studio/getting-started.md
     - Download: studio/download.md
+  - Troubleshooting:
+    - DryBase: troubleshooting/drybase.md
+    - Filametric Studio: troubleshooting/filametric-studio.md
   - Support:
     - FAQ: support/faq.md
     - Contact: support/contact.md

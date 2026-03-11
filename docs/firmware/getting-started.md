@@ -1,3 +1,3 @@
-# Filametric Studio
+# Getting Started
 
 <!-- TODO: Add content -->
