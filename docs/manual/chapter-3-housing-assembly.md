@@ -145,4 +145,100 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-<!-- Steps 5+ will be added as content is provided -->
+## Step 5: Installing the PSU into the housing
+
+**You will need:**
+
+- Housing assembly (from a previous step)
+- Power supply + attached cables & power board (from the previous step)
+- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Microfiber cloth
+- Phillips screwdriver
+
+**a.** Place the housing on the microfiber cloth with the open side facing up. Drive a 2.9 x 6.5mm flat-headed screw into the front mounting hole as shown in the image below, leaving 2-3mm of spacing between the screw head and the housing. This acts as a rail to slide the PSU under.
+
+![Front screw as rail](../images/manual/ch3/ch3-step5-front-screw.webp)
+
+**b.** Hold the power board in your left hand and the PSU in your right hand. Tilt the PSU at a slight angle and slide the front edge underneath the partially tightened screw, as shown in the images below.
+
+![Slide PSU under screw](../images/manual/ch3/ch3-step5-slide-psu.webp)
+
+**c.** Once the front of the PSU is seated under the screw, lower the back of the PSU down into the housing until it sits flat, as shown in the image below.
+
+![Lower PSU into housing](../images/manual/ch3/ch3-step5-lower-psu.webp)
+
+**d.** Tighten the front screw to secure the PSU in place.
+
+![Tighten front screw](../images/manual/ch3/ch3-step5-tighten-front.webp)
+
+!!! warning "Do not overtighten"
+    The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the PSU sits firmly in place.
+
+**e.** Drive the second 2.9 x 6.5mm flat-headed screw into the back mounting hole to fully secure the PSU.
+
+![Back screw](../images/manual/ch3/ch3-step5-back-screw.webp)
+
+**f.** Rest the power board in the housing as shown in the image below. It will be secured in a later step.
+
+![Power board resting in housing](../images/manual/ch3/ch3-step5-power-board.webp)
+
+---
+
+## Step 6: Connecting the C6 inlet to the PSU & exhaust fan to the power board
+
+**You will need:**
+
+- Housing assembly (from the previous step)
+- Microfiber cloth
+- Phillips screwdriver
+
+**a.** Locate the AC input terminal block on the back side of the PSU (these are the terminals not yet connected). Lift the transparent plastic cover to access them, then loosen all three terminal screws to allow the fork terminals to fit in.
+
+![Open cover and loosen screws](../images/manual/ch3/ch3-step6-open-cover.webp)
+
+**b.** Insert the three wires from the power socket into the terminal block in the correct order.
+
+- Yellow/green wire to the left terminal (ground symbol)
+- Red wire to the middle terminal (L symbol)
+- Black wire to the right terminal (N symbol)
+
+!!! warning "Safety warning"
+    This terminal block connects directly to mains voltage. Double check all three wire positions before tightening. Incorrect wiring can cause permanent damage or create a safety hazard.
+
+![Correct wire placement](../images/manual/ch3/ch3-step6-wire-placement.webp)
+
+**c.** Tighten all three terminal screws securely, then close the transparent plastic cover. Give each wire a gentle tug to confirm the fork terminals are fully secured and cannot be pulled loose.
+
+![Tighten terminal screws](../images/manual/ch3/ch3-step6-tighten.webp)
+
+**d.** Verify that the wiring matches the image below. Check both the wire routing and polarity from the front view before continuing.
+
+![Verify wiring from front](../images/manual/ch3/ch3-step6-verify.webp)
+
+**e.** Connect the exhaust fan cable to the connector labeled **FAN 1** on the power board. A clear click should be heard and felt when the connector is fully seated. Give the cable a gentle tug to confirm it is secure. Place the power board back in its position in the housing. It will be fully secured in a later step.
+
+![Fan connector to FAN 1](../images/manual/ch3/ch3-step6-fan-connector.webp)
+
+---
+
+## Step 7: Placing the rubber feet on the housing
+
+**You will need:**
+
+- Housing assembly (from the previous step)
+- 4x rubber feet (from the Adhesives bag)
+
+**a.** Remove the strip of 4 rubber feet from the Adhesives bag.
+
+![Rubber feet parts](../images/manual/ch3/ch3-step7-parts.webp)
+
+**b.** Press one rubber foot into each of the four corner cavities at the bottom of the housing.
+
+![Rubber foot installed](../images/manual/ch3/ch3-step7-install.webp)
+
+!!! note "Be mindful of the power board"
+    The power board is not yet secured to the housing and can shift during handling.
+
+---
+
+<!-- Steps 8+ will be added as content is provided -->
