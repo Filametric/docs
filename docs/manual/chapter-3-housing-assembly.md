@@ -232,10 +232,10 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ![Rubber feet parts](../images/manual/ch3/ch3-step7-parts.webp)
 
+**b.** Press one rubber foot into each of the four corner cavities at the bottom of the housing.
+
 !!! note "Be mindful of the power board"
     The power board is not yet secured to the housing and can shift during handling.
-
-**b.** Press one rubber foot into each of the four corner cavities at the bottom of the housing.
 
 ![Rubber foot installed](../images/manual/ch3/ch3-step7-install.webp)
 
