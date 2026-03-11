@@ -80,4 +80,45 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-<!-- Steps 3+ will be added as content is provided -->
+## Step 3: Connecting the power cables to the PSU
+
+**You will need:**
+
+- Power supply unit (PSU)
+- 2x power cables with fork terminals (red & black) (from the Cables bag)
+- Microfiber cloth
+- Phillips screwdriver
+
+![Step 3 parts](../images/manual/ch3/ch3-step3-parts.webp)
+
+![Power cables close-up](../images/manual/ch3/ch3-step3-cables-closeup.webp)
+
+**a.** Remove the PSU from its packaging and inspect it for any visible damage before proceeding.
+
+![PSU inspection](../images/manual/ch3/ch3-step3-psu-inspect.webp)
+
+**b.** Locate the output terminal block on the PSU. The terminals are labeled from left to right: **V+, V+, V-, V-**. You will be connecting to terminals 1 and 3, as indicated by the red outlines in the image below. Loosen both terminal screws just enough to insert the fork terminals.
+
+![Terminal block with positions 1 and 3 marked](../images/manual/ch3/ch3-step3-terminals.webp)
+
+![Loosening the terminal screws](../images/manual/ch3/ch3-step3-loosen-screws.webp)
+
+**c.** Insert the cables into the terminal block:
+
+- Red wire to the first V+ terminal (position 1)
+- Black wire to the first V- terminal (position 3)
+
+!!! warning "Polarity is critical"
+    Reversing the red and black wires will damage the DryBase electronics. Double-check before tightening.
+
+**d.** Tighten both terminal screws securely. Give each wire a gentle tug to confirm it is properly seated and cannot be pulled out.
+
+![Tightening the terminal screws](../images/manual/ch3/ch3-step3-tighten-screws.webp)
+
+**e.** Confirm that the final result matches the image below: the red wire seated in the first V+ terminal and the black wire in the first V- terminal, with both screws tightened and the remaining terminals left empty.
+
+![Final result](../images/manual/ch3/ch3-step3-result.webp)
+
+---
+
+<!-- Steps 4+ will be added as content is provided -->
