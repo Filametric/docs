@@ -20,7 +20,7 @@ These supports are small and should be easy to remove using a flat tool or your 
 
 ## Result
 
-With all supports removed, your housing should be clean and ready for assembly. The removed material will look something like this:
+With all supports removed, your housing should be clean and ready for assembly.
 
 ![Removed support material](../images/manual/ch2/removed-supports.webp)
 
@@ -29,4 +29,4 @@ With all supports removed, your housing should be clean and ready for assembly. 
 
 ---
 
-[:octicons-arrow-right-24: Continue to Chapter 3: Housing assembly](chapter-3-housing-assembly.md){ .md-button .md-button--primary }
+[:octicons-arrow-left-24: Chapter 1: Unboxing](chapter-1-unboxing.md){ .md-button } [:octicons-arrow-right-24: Chapter 3: Housing assembly](chapter-3-housing-assembly.md){ .md-button .md-button--primary }

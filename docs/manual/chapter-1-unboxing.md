@@ -37,4 +37,4 @@ From left to right, top to bottom:
 
 ---
 
-[:octicons-arrow-right-24: Continue to Chapter 2: Preparing the DryBase housing](chapter-2-preparing-housing.md){ .md-button .md-button--primary }
+[:octicons-arrow-left-24: Introduction](introduction.md){ .md-button } [:octicons-arrow-right-24: Chapter 2: Preparing the housing](chapter-2-preparing-housing.md){ .md-button .md-button--primary }
