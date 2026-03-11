@@ -3,6 +3,11 @@
   height: 1.1rem;
 }
 
+/* Hide site name next to logo (already in logo SVG) */
+.md-header__topic .md-ellipsis {
+  display: none;
+}
+
 /* Filametric brand colors */
 :root {
   --md-primary-fg-color: #1a1a1a;
