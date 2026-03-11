@@ -5,8 +5,6 @@ hide:
 
 # Filametric Documentation
 
-Welcome to the official documentation for the **Filametric DryBase**.
-
 <div class="grid cards" markdown>
 
 -   :material-book-open-variant:{ .lg .middle } **Assembly Manual**
@@ -29,7 +27,7 @@ Welcome to the official documentation for the **Filametric DryBase**.
 
     ---
 
-    First flash, updating, and firmware changelog.
+    Setup, configuration, and firmware updates for your DryBase.
 
     [:octicons-arrow-right-24: Firmware docs](firmware/overview.md)
 
@@ -37,7 +35,7 @@ Welcome to the official documentation for the **Filametric DryBase**.
 
     ---
 
-    Connect, monitor, and control your DryBase over Wi-Fi.
+    Setup, usage, and tips for the Filametric Studio desktop app.
 
     [:octicons-arrow-right-24: Learn more](studio/overview.md)
 

@@ -3,28 +3,28 @@
   --md-primary-fg-color: #1a1a1a;
   --md-primary-fg-color--light: #333333;
   --md-primary-fg-color--dark: #000000;
-  --md-accent-fg-color: #ff6b00;
-  --md-accent-fg-color--transparent: #ff6b001a;
+  --md-accent-fg-color: #ff5500;
+  --md-accent-fg-color--transparent: #ff55001a;
 }
 
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: #1a1a1a;
   --md-primary-fg-color--light: #333333;
   --md-primary-fg-color--dark: #000000;
-  --md-accent-fg-color: #ff6b00;
-  --md-accent-fg-color--transparent: #ff6b001a;
+  --md-accent-fg-color: #ff5500;
+  --md-accent-fg-color--transparent: #ff55001a;
 }
 
 /* Style admonitions to match Filametric look */
 .md-typeset .admonition.warning,
 .md-typeset details.warning {
-  border-color: #ff6b00;
+  border-color: #ff5500;
 }
 
 .md-typeset .warning > .admonition-title,
 .md-typeset .warning > summary {
-  background-color: #ff6b001a;
-  border-color: #ff6b00;
+  background-color: #ff55001a;
+  border-color: #ff5500;
 }
 
 /* Parts list styling */
