@@ -16,8 +16,6 @@ In this chapter you will assemble the housing, installing the power supply unit 
 
 ![Step 1 parts](../images/manual/ch3/ch3-step1-parts.webp)
 
-![C6 inlet close-up](../images/manual/ch3/ch3-step1-inlet-closeup.webp)
-
 **a.** Locate the power socket opening at the back of the housing and insert the C6 inlet, aligning it flush with the left edge. Refer to the images below for the correct orientation.
 
 ![Inlet orientation](../images/manual/ch3/ch3-step1-orientation.webp)
@@ -50,8 +48,6 @@ The images below show how the correctly installed inlet looks from the outside a
 - Phillips screwdriver
 
 ![Step 2 parts](../images/manual/ch3/ch3-step2-parts.webp)
-
-![Exhaust fan and screw](../images/manual/ch3/ch3-step2-fan-closeup.webp)
 
 **a.** Before installing the fan, route its cable so it runs flat along the side of the fan housing, not sticking out from the front. The cable should be tucked neatly against the fan body, not protruding outward.
 
