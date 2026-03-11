@@ -111,4 +111,38 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-<!-- Steps 4+ will be added as content is provided -->
+## Step 4: Connecting the PSU to the power board
+
+**You will need:**
+
+- Power supply + attached cables (from the previous step)
+- Power board (from the Power board bag)
+- Microfiber cloth
+- Phillips screwdriver
+
+**a.** Unpack the power board from its anti-static bag and place it on the microfiber cloth.
+
+![Unpack power board](../images/manual/ch3/ch3-step4-unpack.webp)
+
+**b.** Locate the two screw terminals on the power board, labeled **GND** and **24V**. Loosen both terminal screws using your Phillips screwdriver, just enough to insert the fork terminals.
+
+![GND and 24V terminals](../images/manual/ch3/ch3-step4-terminals.webp)
+
+**c.** Insert the **red wire** into the **24V-labeled terminal**. Make sure the wire runs downward as shown in the image below.
+
+![Red wire into 24V terminal](../images/manual/ch3/ch3-step4-red-wire.webp)
+
+**d.** Insert the **black wire** into the **GND-labeled terminal**. Make sure the wire runs downward in the same direction as the red wire.
+
+![Black wire into GND terminal](../images/manual/ch3/ch3-step4-black-wire.webp)
+
+!!! warning "Polarity is critical"
+    Red must go to 24V and black to GND. Reversing the wires will damage the power board and other electronics. Double-check before tightening.
+
+**e.** Tighten both terminal screws securely and give each wire a gentle tug to confirm it is properly seated. Confirm that the final result matches the image below.
+
+![Final result](../images/manual/ch3/ch3-step4-result.webp)
+
+---
+
+<!-- Steps 5+ will be added as content is provided -->
