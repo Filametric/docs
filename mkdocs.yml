@@ -60,7 +60,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Manual:
+  - Assembly Manual:
     - Introduction: manual/introduction.md
     - Chapter 1 — Before You Start: manual/chapter-1-before-you-start.md
     - Chapter 2 — 3D Printing: manual/chapter-2-3d-printing.md
@@ -68,12 +68,12 @@ nav:
     - Chapter 4 — Heating Unit Assembly: manual/chapter-4-heating-unit-assembly.md
     - Chapter 5 — DryBase Assembly: manual/chapter-5-drybase-assembly.md
     - Chapter 6 — Drybox Assembly: manual/chapter-6-drybox-assembly.md
-  - Firmware:
+  - DryBase Firmware:
     - Overview: firmware/overview.md
     - Getting Started: firmware/getting-started.md
     - Updating: firmware/updating.md
     - Changelog: firmware/changelog.md
-  - Studio:
+  - Filametric Studio:
     - Overview: studio/overview.md
     - Getting Started: studio/getting-started.md
     - Download: studio/download.md
