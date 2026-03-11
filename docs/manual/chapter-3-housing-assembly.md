@@ -241,4 +241,69 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-<!-- Steps 8+ will be added as content is provided -->
+## Step 8: Connecting the display and cables to the Main & Sensor board
+
+**You will need:**
+
+- Housing assembly (from the previous step)
+- Main & Sensor board (from the Main & Sensor board bag)
+- Main & Sensor board cables (from the Cables bag)
+- Display (from the Display bag)
+- Microfiber cloth
+
+![Step 8 parts](../images/manual/ch3/ch3-step8-parts.webp)
+
+**a.** Remove both cables and the Main & Sensor board from their bags. Place them on the microfiber cloth as shown in the image below.
+
+![Unpack components](../images/manual/ch3/ch3-step8-unpack.webp)
+
+**b.** Connect both cables to the Main board. A clear click should be heard when each connector is fully seated. Give each cable a gentle tug to confirm it is secure.
+
+![Cables connected to Main board](../images/manual/ch3/ch3-step8-cables-main.webp)
+
+**c.** Connect the Sensor board to the other end of the 4-wire cable. This connector slides in without a click (it is seated correctly when it sits flush as shown in the image below).
+
+![Sensor board connected](../images/manual/ch3/ch3-step8-sensor.webp)
+
+Confirm that the assembly matches the image below before continuing.
+
+![Assembly check](../images/manual/ch3/ch3-step8-assembly-check.webp)
+
+**d.** Remove the display from its bag.
+
+!!! warning "Handle with care"
+    Only touch the FPC cables at their middle and never at the exposed pads or connectors. Oil and pressure from your fingers can damage the contacts.
+
+![How to handle the display](../images/manual/ch3/ch3-step8-handle-display.webp)
+
+**e.** Remove the red foam protection from the display and place the display face-down on the microfiber cloth, as shown in the image below.
+
+![Display face-down](../images/manual/ch3/ch3-step8-display-facedown.webp)
+
+**f.** On the Main board, locate both FPC connectors and open them by gently lifting the locking tab, as shown in the images below. Do this carefully, as the tabs are fragile.
+
+![FPC connectors](../images/manual/ch3/ch3-step8-fpc-connectors.webp)
+
+**g.** Hold the Main board in your left hand and the small FPC touch cable in your right. Refer to the image below to identify the correct cable and connector.
+
+![Touch cable identification](../images/manual/ch3/ch3-step8-touch-cable.webp)
+
+**h.** Gently slide the cable into the connector until it is fully seated. The black edge of the FPC touch cable should extend ever so slightly beyond the connector, as indicated by the red arrow in the image on the right below. Once correctly positioned, close the locking tab by pressing it down gently until it clicks into place. **Do not force it.**
+
+![Touch cable connection](../images/manual/ch3/ch3-step8-touch-connect.webp)
+
+**i.** Flip the Main board over so the FPC display connector is now facing up, and position it alongside the display as shown in the image below.
+
+![Flip and position](../images/manual/ch3/ch3-step8-flip-position.webp)
+
+**j.** Hold the large FPC display cable in your left hand and the Main board in your right, as shown in the image below.
+
+![Display cable positioning](../images/manual/ch3/ch3-step8-display-cable.webp)
+
+**k.** Slide the cable into the wide FPC connector, aligning the white line on the cable with the white line marking on the Main board. Once correctly positioned, close the locking tab by pressing it down gently to secure the connection.
+
+![Display cable connected](../images/manual/ch3/ch3-step8-display-connect.webp)
+
+---
+
+<!-- Steps 9+ will be added as content is provided -->
