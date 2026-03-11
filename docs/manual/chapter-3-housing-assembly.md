@@ -408,7 +408,7 @@ The image below shows how the assembly should look after both screws are tighten
 
 In the next chapter, you will assemble the **heating unit**.
 
-![Completed housing assembly](../images/manual/ch3/ch3-step10-complete.webp)
+![Completed housing assembly](../images/manual/ch3/ch3-result.webp)
 
 ---
 
