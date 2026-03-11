@@ -91,8 +91,6 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ![Step 3 parts](../images/manual/ch3/ch3-step3-parts.webp)
 
-![Power cables close-up](../images/manual/ch3/ch3-step3-cables-closeup.webp)
-
 **a.** Remove the PSU from its packaging and inspect it for any visible damage before proceeding.
 
 ![PSU inspection](../images/manual/ch3/ch3-step3-psu-inspect.webp)
