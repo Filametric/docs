@@ -47,25 +47,11 @@
   margin: 16px 0;
 }
 
-/* Force all navigation tabs to always be visible */
+/* Keep custom navbar always visible */
 .md-tabs {
-  overflow: visible;
-}
-
-.md-tabs__list {
-  flex-wrap: wrap;
-  overflow: visible;
-}
-
-.md-tabs__item {
-  display: inline-flex !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-}
-
-.md-tabs__link {
-  white-space: nowrap;
-  opacity: 1 !important;
+  position: sticky;
+  top: 0;
+  z-index: 2;
 }
 
 /* Assembly step layout */

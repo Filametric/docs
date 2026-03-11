@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block tabs %}
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      <li class="md-tabs__item"><a href="{{ config.site_url }}" class="md-tabs__link">Home</a></li>
+      <li class="md-tabs__item"><a href="{{ config.site_url }}manual/introduction/" class="md-tabs__link">Assembly Manual</a></li>
+      <li class="md-tabs__item"><a href="{{ config.site_url }}firmware/overview/" class="md-tabs__link">DryBase Firmware</a></li>
+      <li class="md-tabs__item"><a href="{{ config.site_url }}studio/overview/" class="md-tabs__link">Filametric Studio</a></li>
+      <li class="md-tabs__item"><a href="{{ config.site_url }}troubleshooting/drybase/" class="md-tabs__link">Troubleshooting</a></li>
+      <li class="md-tabs__item"><a href="{{ config.site_url }}support/faq/" class="md-tabs__link">Support</a></li>
+    </ul>
+  </div>
+</nav>
+{% endblock %}
