@@ -398,7 +398,7 @@ The image below shows how the assembly should look after both screws are tighten
 
 ---
 
-You have completed the housing assembly. The DryBase housing is now fully assembled with all electronics installed and connected. Before continuing to the next chapter, take a moment to verify the following:
+**Congratulations!** You have completed the housing assembly. The DryBase housing is now fully assembled with all electronics installed and connected. Before continuing to the next chapter, take a moment to verify the following:
 
 - All cables are routed along the inside walls and none are pinched or trapped
 - The display sits flush with the housing on all sides
