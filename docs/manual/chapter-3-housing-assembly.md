@@ -28,12 +28,12 @@ In this chapter you will assemble the housing, installing the power supply unit 
 
 The images below show how the correctly installed inlet looks from the outside and the inside of the housing.
 
+!!! warning "Check the snap"
+    If you did not hear or feel a clear snap, the inlet may not be fully seated. Remove it and try again. A loose inlet can cause connection issues later.
+
 ![Result outside](../images/manual/ch3/ch3-step1-result-outside.webp)
 
 ![Result inside](../images/manual/ch3/ch3-step1-result-inside.webp)
-
-!!! warning "Check the snap"
-    If you did not hear or feel a clear snap, the inlet may not be fully seated. Remove it and try again. A loose inlet can cause connection issues later.
 
 ---
 
@@ -65,10 +65,10 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **c.** Secure the fan using the 2.9 x 16mm flat-headed screw and your Phillips screwdriver.
 
-![Secure fan with screw](../images/manual/ch3/ch3-step2-screw.webp)
-
 !!! warning "Do not overtighten"
     The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the fan sits firmly in place.
+
+![Secure fan with screw](../images/manual/ch3/ch3-step2-screw.webp)
 
 ---
 
@@ -400,11 +400,11 @@ The image below shows how the assembly should look after both screws are tighten
 
 **Congratulations!** You have completed the housing assembly. The DryBase housing is now fully assembled with all electronics installed and connected. Before continuing to the next chapter, take a moment to verify the following:
 
-- All cables are routed along the inside walls and none are pinched or trapped
-- The display sits flush with the housing on all sides
-- The USB-C port is accessible through its slot
-- The main and power board are each secured with two screws
-- The rubber feet are firmly seated in all four corners
+- [x] All cables are routed along the inside walls and none are pinched or trapped
+- [x] The display sits flush with the housing on all sides
+- [x] The USB-C port is accessible through its slot
+- [x] The main and power board are each secured with two screws
+- [x] The rubber feet are firmly seated in all four corners
 
 In the next chapter, you will assemble the **heating unit**.
 

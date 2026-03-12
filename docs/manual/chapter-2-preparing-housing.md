@@ -20,14 +20,18 @@ Flip the housing over. Remove the support material from the four feet locations 
 
 These supports are small and should be easy to remove using a flat tool or your fingernail.
 
-## Result
+---
 
-With all supports removed, your housing should be clean and ready for assembly.
+**Congratulations!** You have completed the housing preparation. Before continuing to the next chapter, take a moment to verify the following:
 
-![Removed support material](../images/manual/ch2/removed-supports.webp)
+- [x] All top support material has been removed from the inside of the housing
+- [x] All bottom support material has been removed from the four feet locations
+- [x] No leftover stubs are sticking out that could interfere with component placement
 
 !!! note "Check your work"
     Run your fingers along the inside of the housing to make sure no leftover support material is sticking out. Any remaining stubs can interfere with component placement later on.
+
+![Removed support material](../images/manual/ch2/removed-supports.webp)
 
 ---
 

@@ -139,7 +139,7 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 - Blower fan bag
 - Container adapter part (from the Heating unit parts bag; the round black part shown in the top left corner of the image below)
 - Hot air exhaust port (from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)
-- 1x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
+- 2x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
 - 2x 3.9 x 25mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
 - Adhesives bag (not in the picture below)
 - Microfiber cloth

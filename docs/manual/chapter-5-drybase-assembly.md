@@ -1,6 +1,6 @@
 [:octicons-arrow-left-24: Chapter 4: Heating unit assembly](chapter-4-heating-unit-assembly.md){ .md-button }
 
-# Chapter 5: DryBase Assembly
+# Chapter 5: DryBase assembly
 
 In this chapter you will install the heating unit into the housing to complete your DryBase. This is the final assembly step and by the end of this chapter, your DryBase will be fully assembled and ready for use. This chapter takes roughly 30 minutes to complete.
 
@@ -48,12 +48,12 @@ In this chapter you will install the heating unit into the housing to complete y
 
 **f.** You are now ready to lower the heating unit into the housing. Before doing so, read through this step completely before proceeding.
 
+!!! warning "Do not force the heating unit down"
+    Lower it evenly on all sides simultaneously, keeping the wires clear on the left side and the moist air exhaust port aligned with the cut-out on the right side (when viewing from the front of the DryBase).
+
 Make sure the moist air exhaust port and the heating unit are aligned as shown in the image below.
 
 ![Alignment before lowering](../images/manual/ch5/ch5-step1-alignment.webp)
-
-!!! warning "Do not force the heating unit down"
-    Lower it evenly on all sides simultaneously, keeping the wires clear on the left side and the moist air exhaust port aligned with the cut-out on the right side (when viewing from the front of the DryBase).
 
 Verify the following before continuing:
 
@@ -84,11 +84,7 @@ The final result should show no visible gap between the heating unit and the hou
 
 ![Screwing](../images/manual/ch5/ch5-step1-screwing.webp)
 
-**h.** Once all screws are secured, verify the following before continuing:
-
-- [x] No visible gap exists between the heating unit and the housing on any side
-- [x] The moist air exhaust port is flush with the right side of the housing
-- [x] No wires are visible or pinched along the edges
+**h.** Once all screws are secured, confirm that the assembly matches the image below before continuing.
 
 ![Verification](../images/manual/ch5/ch5-step1-verify.webp)
 
@@ -98,9 +94,15 @@ The final result should show no visible gap between the heating unit and the hou
 
 ---
 
-**Congratulations! You have successfully assembled your DryBase.**
+**Congratulations!** You have successfully assembled your DryBase.
 
-Your DryBase is now fully assembled and powered on. The display should light up and show the home screen, as shown in the image below. You are ready to start drying.
+Your DryBase is now fully assembled and powered on. The display should light up and show the home screen, as shown in the image below. You are ready to start drying. Before continuing, take a moment to verify the following:
+
+- [x] No visible gap exists between the heating unit and the housing on any side
+- [x] The moist air exhaust port is flush with the right side of the housing
+- [x] No wires are visible or pinched along the edges
+- [x] All six countersunk screws are secured
+- [x] The C5 power cord is fully seated and the display powers on
 
 If the display does not turn on, check that the power cord is fully seated and that the wall outlet is active. If the issue persists, contact us at [support@filametric.com](mailto:support@filametric.com).
 
