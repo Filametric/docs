@@ -37,6 +37,11 @@
   border-color: #ff5500;
 }
 
+/* Active nav item highlight */
+.md-nav__link--active {
+  color: #ff5500 !important;
+}
+
 /* Parts list styling */
 .parts-list {
   background: var(--md-code-bg-color);
