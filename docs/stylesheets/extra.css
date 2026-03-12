@@ -37,6 +37,18 @@
   border-color: #ff5500;
 }
 
+/* Navigation buttons in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .md-button {
+  color: #fff;
+  border-color: #fff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+  color: #fff;
+  border-color: #ff5500;
+  background-color: #ff5500;
+}
+
 /* Active nav item highlight */
 .md-nav__link--active {
   color: #ff5500 !important;
