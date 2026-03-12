@@ -38,8 +38,16 @@
 }
 
 /* Links in dark mode */
-[data-md-color-scheme="slate"] .md-typeset a {
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button) {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.3);
+  text-underline-offset: 2px;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button):hover {
   color: #ff5500;
+  text-decoration-color: #ff5500;
 }
 
 /* Navigation buttons in dark mode */
