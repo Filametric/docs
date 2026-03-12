@@ -324,10 +324,10 @@ Confirm that the assembly matches the image below before continuing.
 
 **b.** Hold the display in your left hand and the Main board in your right. Pass both cables through the front opening of the housing, as shown in the image below.
 
-![Hold display through opening](../images/manual/ch3/ch3-step9-hold-display.webp)
+!!! note "Keep the display cables straight"
+    The FPC cables connecting the display to the Main board are fragile. Keep them as straight as possible at all times to avoid damage to the cables or the FPC connectors on the boards. Do not bend, fold or crease them.
 
-!!! note "Keep the cables safe"
-    Keep the touch cables as straight as possible and the FPC connectors and their cables away from damage. Do not bend or crease them.
+![Hold display through opening](../images/manual/ch3/ch3-step9-hold-display.webp)
 
 **c.** While still holding the display with your left hand, insert the Main board into the housing at an angle. Align the top edge of the board flush with the top edge of the housing, as indicated by the top red arrow in the image below. At the same time, align the USB-C connector of the board with its dedicated slot in the housing, as indicated by the bottom red arrow.
 
