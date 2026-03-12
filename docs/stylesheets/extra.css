@@ -48,10 +48,22 @@
   border-color: #fff;
 }
 
+[data-md-color-scheme="slate"] .md-typeset .md-button:hover {
+  color: #fff;
+  border-color: #ff5500;
+  background-color: #ff5500;
+}
+
 [data-md-color-scheme="slate"] .md-typeset .md-button--primary {
   color: #fff;
   border-color: #ff5500;
   background-color: #ff5500;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:hover {
+  color: #ff5500;
+  border-color: #ff5500;
+  background-color: transparent;
 }
 
 /* Active nav item highlight */
