@@ -59,6 +59,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: date
 
 nav:
   - Home: index.md
