@@ -1,3 +1,3 @@
 # Changelog
 
-<!-- TODO: Add version history -->
+This page is coming soon.

@@ -1,3 +1,3 @@
 # 3D Printing Guide
 
-<!-- TODO: Add content -->
+This page is coming soon.

@@ -1,3 +1,3 @@
 # DryBase Firmware
 
-<!-- TODO: Add content -->
+This page is coming soon.

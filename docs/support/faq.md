@@ -1,3 +1,3 @@
 # Frequently Asked Questions
 
-<!-- TODO: Add content -->
+This page is coming soon.
