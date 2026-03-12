@@ -104,7 +104,8 @@ Your DryBase is now fully assembled and powered on. The display should light up 
 - [x] All six countersunk screws are secured
 - [x] The C5 power cord is fully seated and the display powers on
 
-If the display does not turn on, check that the power cord is fully seated and that the wall outlet is active. If the issue persists, contact us at [support@filametric.com](mailto:support@filametric.com).
+!!! note "Display not turning on?"
+    Check that the power cord is fully seated and that the wall outlet is active. If the issue persists, contact us at [support@filametric.com](mailto:support@filametric.com).
 
 ![DryBase assembled](../images/manual/ch5/ch5-result.webp)
 
