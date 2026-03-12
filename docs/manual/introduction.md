@@ -12,11 +12,11 @@ The assembly is split into six chapters. You'll start by checking your kit conte
 
 | | Chapter | What you'll do |
 |---|---------|---------------|
-| 1 | [Unboxing & checking components](chapter-1-unboxing.md) | Verify your kit contents and gather tools |
-| 2 | [Preparing the DryBase housing](chapter-2-preparing-housing.md) | Install heat-set inserts and prep the printed parts |
-| 3 | [Housing assembly](chapter-3-housing-assembly.md) | Assemble the main housing structure |
-| 4 | [Heating unit assembly](chapter-4-heating-unit-assembly.md) | Build the heating unit |
-| 5 | [DryBase assembly](chapter-5-drybase-assembly.md) | Combine housing and heating unit into the final DryBase |
+| 1 | [Unboxing & checking components](chapter-1-unboxing.md) | Verify your kit contents and gather the required tools |
+| 2 | [Preparing the DryBase housing](chapter-2-preparing-housing.md) | Remove all support material from the 3D-printed housing |
+| 3 | [Housing assembly](chapter-3-housing-assembly.md) | Install the PSU, exhaust fan, circuit boards and display into the housing |
+| 4 | [Heating unit assembly](chapter-4-heating-unit-assembly.md) | Assemble the heating element enclosure, blower fan, container adapter and exhaust port onto the baseplate |
+| 5 | [DryBase assembly](chapter-5-drybase-assembly.md) | Connect all cables, install the heating unit into the housing and power on |
 | 6 | [Drybox assembly](chapter-6-drybox-assembly.md) | Set up the drybox container |
 
 ## Before you begin
