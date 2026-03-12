@@ -17,7 +17,7 @@ The assembly is split into six chapters. You'll start by checking your kit conte
 | 3 | [Housing assembly](chapter-3-housing-assembly.md) | Install the PSU, exhaust fan, circuit boards and display into the housing |
 | 4 | [Heating unit assembly](chapter-4-heating-unit-assembly.md) | Assemble the heating element enclosure, blower fan, container adapter and exhaust port onto the baseplate |
 | 5 | [DryBase assembly](chapter-5-drybase-assembly.md) | Connect all cables, install the heating unit into the housing and power on |
-| 6 | [Drybox assembly](chapter-6-drybox-assembly.md) | Set up the drybox container |
+| 6 | [Drybox assembly](chapter-6-drybox-assembly.md) | Modify the cereal container and install the spool holder, filament exit ports and pneumatic fittings |
 
 ## Before you begin
 
