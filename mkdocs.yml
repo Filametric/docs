@@ -74,8 +74,8 @@ nav:
     - "5. DryBase assembly": manual/chapter-5-drybase-assembly.md
     - "6. Drybox assembly": manual/chapter-6-drybox-assembly.md
   - 3D Printing:
-    - Guide: 3d-printing/guide.md
-    - Print Files: 3d-printing/files.md
+    - Overview: 3d-printing/guide.md
+    - DryBase Housing: 3d-printing/housing.md
   - DryBase Firmware:
     - Overview: firmware/overview.md
     - Getting Started: firmware/getting-started.md

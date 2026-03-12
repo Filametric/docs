@@ -10,7 +10,7 @@ The image above is divided into two sections. The **blue box** on the left shows
 
 ## What you need to provide
 
-- DryBase housing (3D-printed; see the [3D Printing guide](../3d-printing/guide.md) for material requirements)
+- DryBase housing (3D-printed; see the [3D Printing guide](../3d-printing/housing.md) for material requirements)
 - Phillips screwdriver
 - 2mm hex/allen key
 - Microfiber cloth (for handling components)

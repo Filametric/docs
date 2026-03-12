@@ -75,6 +75,43 @@
   color: #ff5500 !important;
 }
 
+/* 3D Printing card grid */
+.print-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.print-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: var(--md-default-fg-color) !important;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.print-card:hover {
+  border-color: #ff5500;
+  box-shadow: 0 2px 12px rgba(255, 85, 0, 0.15);
+}
+
+.print-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.print-card span {
+  padding: 12px 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
 /* Parts list styling */
 .parts-list {
   background: var(--md-code-bg-color);
