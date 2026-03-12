@@ -5,7 +5,7 @@
 In this chapter you will modify the cereal container to work with your DryBase. This chapter takes roughly 15-30 minutes to complete. By the end of this chapter, your DryBase will be ready for use, including printing directly from the container while drying.
 
 !!! note "Compatible containers"
-    The DryBase has been tested and verified with two cereal containers: the **[Wildone](https://www.amazon.nl/dp/B07NP98YKY)** (recognizable by its three smaller grooves, left image) and the **[GoMaihe](https://www.amazon.nl/dp/B08JTH2NZJ)** (recognizable by its wider narrow section, right image). Both can be found on Amazon. All performance specifications for the DryBase, including maximum temperature and drying times, are based on testing with these two containers.
+    The DryBase has been tested and verified with two cereal containers: the **[Wildone](https://www.amazon.nl/dp/B07NP98YKY){:target="_blank"}** (recognizable by its three smaller grooves, left image) and the **[GoMaihe](https://www.amazon.nl/dp/B08JTH2NZJ){:target="_blank"}** (recognizable by its wider narrow section, right image). Both can be found on Amazon. All performance specifications for the DryBase, including maximum temperature and drying times, are based on testing with these two containers.
 
     Other containers may also be compatible, provided they meet the following requirements:
 
