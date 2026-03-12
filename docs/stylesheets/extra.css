@@ -61,9 +61,9 @@
 }
 
 [data-md-color-scheme="slate"] .md-typeset .md-button--primary:hover {
-  color: #ff5500;
-  border-color: #ff5500;
-  background-color: transparent;
+  color: #fff;
+  border-color: #ff7733;
+  background-color: #ff7733;
 }
 
 /* Active nav item highlight */
