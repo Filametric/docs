@@ -198,9 +198,9 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **b.** Insert the three wires from the power socket into the terminal block in the correct order.
 
-- Yellow/green wire to the left terminal (ground symbol)
-- Red wire to the middle terminal (L symbol)
-- Black wire to the right terminal (N symbol)
+- Yellow/green wire to the left terminal (⏚ Ground)
+- Red wire to the middle terminal (L - Live)
+- Black wire to the right terminal (N - Neutral)
 
 !!! warning "Safety warning"
     This terminal block connects directly to mains voltage. Double check all three wire positions before tightening. Incorrect wiring can cause permanent damage or create a safety hazard.
