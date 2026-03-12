@@ -198,7 +198,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **b.** Insert the three wires from the power socket into the terminal block in the correct order.
 
-- Yellow/green wire to the left terminal (⏚ Ground)
+- Yellow/green wire to the left terminal (⏚ - Ground)
 - Red wire to the middle terminal (L - Live)
 - Black wire to the right terminal (N - Neutral)
 
