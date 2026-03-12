@@ -57,7 +57,7 @@ Make sure the moist air exhaust port and the heating unit are aligned as shown i
 
 Verify the following before continuing:
 
-On the right side, ensure the moist air exhaust port on the heating unit is aligned with the cavity in the housing and sits flush, as shown in the images below.
+On the right side, ensure the opening on the heating unit is aligned with the moist air exhaust port in the housing and sits flush, as shown in the images below.
 
 ![Exhaust port flush check](../images/manual/ch5/ch5-step1-exhaust-flush.webp)
 
