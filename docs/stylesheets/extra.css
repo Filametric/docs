@@ -37,6 +37,11 @@
   border-color: #ff5500;
 }
 
+/* Links in dark mode */
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #ff5500;
+}
+
 /* Navigation buttons in dark mode */
 [data-md-color-scheme="slate"] .md-typeset .md-button {
   color: #fff;
