@@ -37,7 +37,7 @@ The image below is divided into two sections. The **blue box** shows what you ne
 
 **What's included in your kit** *(green box):*
 
-- Drybox parts *(from the 'Drybox parts' bag)*
+- Drybox parts *(from the Drybox parts bag)*
 
 ![Step 1 parts](../images/manual/ch6/ch6-step1-parts.webp)
 
@@ -122,7 +122,7 @@ After tightening both fasteners, the result should match the image below.
 
 **Congratulations!** You have fully assembled both the DryBase and the drybox.
 
-Your setup is now complete and ready for use. To print while drying, use the included PTFE tube to connect the drybox to your 3D printer. When storing the drybox, make sure to close both grommets and reinstall the round cap on the container lid to keep the container sealed.
+Your setup is now complete and ready for use. To print while drying, use the included PTFE tube to connect the drybox to your 3D printer. When storing the drybox, make sure to close both grommets and reinstall the round cap on the container lid to keep the container sealed. Take a moment to verify the following:
 
 - [x] Both shafts are seated in the spool holder with an audible click
 - [x] The spool holder is inserted into the lid opening
@@ -134,3 +134,5 @@ Your setup is now complete and ready for use. To print while drying, use the inc
     If you run into any issues, reach out at [support@filametric.com](mailto:support@filametric.com). We're happy to help.
 
 ![DryBase and drybox complete](../images/manual/ch6/ch6-result.webp)
+
+---

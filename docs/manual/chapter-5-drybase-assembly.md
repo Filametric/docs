@@ -12,7 +12,7 @@ In this chapter you will install the heating unit into the housing to complete y
 
 - Completed housing assembly *(from Chapter 3)*
 - Completed heating unit assembly *(from Chapter 4)*
-- Moist air exhaust port *(final part from 'Heating unit parts' bag)*
+- Moist air exhaust port *(final part from the Heating unit parts bag)*
 - 1x 2.9 x 6.5mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
 - 6x 2.9 x 9.5mm countersunk screw *(DIN7982; from the Screws / Fasteners bag)*
 - Microfiber cloth
@@ -96,7 +96,7 @@ The final result should show no visible gap between the heating unit and the hou
 
 **Congratulations!** You have successfully assembled your DryBase.
 
-Your DryBase is now fully assembled and powered on. The display should light up and show the home screen, as shown in the image below. You are ready to start drying. Before continuing, take a moment to verify the following:
+Your DryBase is now fully assembled and powered on. The display should light up and show the home screen, as shown in the image below. You are ready to start drying. Before continuing to the next chapter, take a moment to verify the following:
 
 - [x] No visible gap exists between the heating unit and the housing on any side
 - [x] The moist air exhaust port is flush with the right side of the housing
@@ -111,4 +111,4 @@ Your DryBase is now fully assembled and powered on. The display should light up 
 
 ---
 
-[:octicons-arrow-right-24: Chapter 6: DryBox assembly](chapter-6-drybox-assembly.md){ .md-button .md-button--primary }
+[:octicons-arrow-right-24: Chapter 6: Drybox assembly](chapter-6-drybox-assembly.md){ .md-button .md-button--primary }

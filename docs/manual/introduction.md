@@ -31,4 +31,4 @@ You will need a clean, flat surface and about **3 hours** to complete all chapte
 
 ---
 
-[:octicons-arrow-right-24: Continue to Chapter 1: Unboxing & checking components](chapter-1-unboxing.md){ .md-button .md-button--primary }
+[:octicons-arrow-right-24: Chapter 1: Unboxing & checking components](chapter-1-unboxing.md){ .md-button .md-button--primary }

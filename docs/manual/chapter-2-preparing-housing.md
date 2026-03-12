@@ -4,7 +4,7 @@
 
 After printing your DryBase housing, it needs to be cleaned up before assembly. This chapter covers removing all support material.
 
-## Step 1: Remove top support material
+## Step 1: Removing top support material
 
 Locate and remove the tree support material from the inside of the housing. There are four locations, indicated by the red circles in the image below.
 
@@ -12,7 +12,9 @@ Locate and remove the tree support material from the inside of the housing. Ther
 
 Use your hands or a pair of pliers to snap off the supports. They should break away cleanly. If any small stubs remain, trim them with flush cutters.
 
-## Step 2: Remove bottom support material
+---
+
+## Step 2: Removing bottom support material
 
 Flip the housing over. Remove the support material from the four feet locations on the bottom, as shown below.
 

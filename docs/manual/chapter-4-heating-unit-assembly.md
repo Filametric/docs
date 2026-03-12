@@ -67,8 +67,8 @@ Confirm that the assembly matches the images below before continuing.
 
 - Heating element assembly *(from the previous step)*
 - Heating unit baseplate *(from the Heating unit parts bag; the flat black rectangular plate)*
-- 6x M3 x 12mm hex bolt *(DIN 7984; from the Screws / Fasteners bag)*
-- 6x M3 nylon nut *(DIN 985; from the Screws / Fasteners bag)*
+- 6x M3 x 12mm hex bolt *(DIN7984; from the Screws / Fasteners bag)*
+- 6x M3 nylon nut *(DIN985; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - 2mm hex/allen key
 
@@ -131,12 +131,12 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 
 ---
 
-## Step 3: Installing the blower fan, adapter and exhaust port
+## Step 3: Installing the blower fan, container adapter and exhaust port
 
 **You will need:**
 
 - Heating unit assembly *(from the previous step)*
-- Blower fan bag
+- Blower fan *(from the Blower fan bag)*
 - Container adapter part *(from the Heating unit parts bag; the round black part shown in the top left corner of the image below)*
 - Hot air exhaust port *(from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)*
 - 2x 2.9 x 16mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
