@@ -11,7 +11,7 @@ In this chapter you will assemble the housing, installing the power supply unit 
 **You will need:**
 
 - DryBase housing
-- C6 inlet (from the Cables bag)
+- C6 inlet *(from the Cables bag)*
 - Microfiber cloth
 
 ![Step 1 parts](../images/manual/ch3/ch3-step1-parts.webp)
@@ -41,9 +41,9 @@ The images below show how the correctly installed inlet looks from the outside a
 
 **You will need:**
 
-- Housing assembly (from the previous step)
-- Exhaust fan (from the Exhaust fan bag)
-- 1x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
+- Housing assembly *(from the previous step)*
+- Exhaust fan *(from the Exhaust fan bag)*
+- 1x 2.9 x 16mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -77,7 +77,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 **You will need:**
 
 - Power supply unit (PSU)
-- 2x power cables with fork terminals (red & black) (from the Cables bag)
+- 2x power cables with fork terminals (red & black) *(from the Cables bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -115,8 +115,8 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **You will need:**
 
-- Power supply + attached cables (from the previous step)
-- Power board (from the Power board bag)
+- Power supply + attached cables *(from the previous step)*
+- Power board *(from the Power board bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -149,9 +149,9 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **You will need:**
 
-- Housing assembly (from a previous step)
-- Power supply + attached cables & power board (from the previous step)
-- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Housing assembly *(from a previous step)*
+- Power supply + attached cables & power board *(from the previous step)*
+- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -188,7 +188,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **You will need:**
 
-- Housing assembly (from the previous step)
+- Housing assembly *(from the previous step)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -225,8 +225,8 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **You will need:**
 
-- Housing assembly (from the previous step)
-- 4x rubber feet (from the Adhesives bag)
+- Housing assembly *(from the previous step)*
+- 4x rubber feet *(from the Adhesives bag)*
 
 **a.** Remove the strip of 4 rubber feet from the Adhesives bag.
 
@@ -245,10 +245,10 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **You will need:**
 
-- Housing assembly (from the previous step)
-- Main & Sensor board (from the Main & Sensor board bag)
-- Main & Sensor board cables (from the Cables bag)
-- Display (from the Display bag)
+- Housing assembly *(from the previous step)*
+- Main & Sensor board *(from the Main & Sensor board bag)*
+- Main & Sensor board cables *(from the Cables bag)*
+- Display *(from the Display bag)*
 - Microfiber cloth
 
 ![Step 8 parts](../images/manual/ch3/ch3-step8-parts.webp)
@@ -310,9 +310,9 @@ Confirm that the assembly matches the image below before continuing.
 
 **You will need:**
 
-- Housing assembly (from a previous step)
-- Display assembly (from the previous step)
-- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Housing assembly *(from a previous step)*
+- Display assembly *(from the previous step)*
+- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -368,8 +368,8 @@ The image below shows how the assembly should look after both screws are tighten
 
 **You will need:**
 
-- Housing assembly (from a previous step)
-- 2x 2.9 x 6.5mm flat-headed screws (DIN7981; from the Screws / Fasteners bag)
+- Housing assembly *(from a previous step)*
+- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Phillips screwdriver
 
 **a.** Locate the 8-pin cable coming from the Main board and insert it into the connector labeled **'MAIN'** on the Power board. A clear click should be heard when fully seated. Give the cable a gentle tug to confirm it is secure.

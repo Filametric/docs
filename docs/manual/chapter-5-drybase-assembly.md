@@ -10,14 +10,14 @@ In this chapter you will install the heating unit into the housing to complete y
 
 **You will need:**
 
-- Completed housing assembly (from Chapter 3)
-- Completed heating unit assembly (from Chapter 4)
-- Moist air exhaust port (final part from 'Heating unit parts' bag)
-- 1x 2.9 x 6.5mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
-- 6x 2.9 x 9.5mm countersunk screw (DIN7982; from the Screws / Fasteners bag)
+- Completed housing assembly *(from Chapter 3)*
+- Completed heating unit assembly *(from Chapter 4)*
+- Moist air exhaust port *(final part from 'Heating unit parts' bag)*
+- 1x 2.9 x 6.5mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 6x 2.9 x 9.5mm countersunk screw *(DIN7982; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
-- C5 1.5m power cord cable (not shown in the picture below)
+- C5 1.5m power cord cable *(not shown in the picture below)*
 
 ![Step 1 parts](../images/manual/ch5/ch5-step1-parts.webp)
 

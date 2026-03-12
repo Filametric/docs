@@ -13,8 +13,8 @@ In this chapter you will assemble the heating unit, the core component responsib
 
 **You will need:**
 
-- Heating element (from the Heating element bag)
-- Heating unit parts (from the Heating unit parts bag)
+- Heating element *(from the Heating element bag)*
+- Heating unit parts *(from the Heating unit parts bag)*
 - Microfiber cloth
 
 ![Step 1 parts](../images/manual/ch4/ch4-step1-parts.webp)
@@ -65,10 +65,10 @@ Confirm that the assembly matches the images below before continuing.
 
 **You will need:**
 
-- Heating element assembly (from the previous step)
-- Heating unit baseplate (from the Heating unit parts bag; the flat black rectangular plate)
-- 6x M3 x 12mm hex bolt (DIN 7984; from the Screws / Fasteners bag)
-- 6x M3 nylon nut (DIN 985; from the Screws / Fasteners bag)
+- Heating element assembly *(from the previous step)*
+- Heating unit baseplate *(from the Heating unit parts bag; the flat black rectangular plate)*
+- 6x M3 x 12mm hex bolt *(DIN 7984; from the Screws / Fasteners bag)*
+- 6x M3 nylon nut *(DIN 985; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - 2mm hex/allen key
 
@@ -135,13 +135,13 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 
 **You will need:**
 
-- Heating unit assembly (from the previous step)
+- Heating unit assembly *(from the previous step)*
 - Blower fan bag
-- Container adapter part (from the Heating unit parts bag; the round black part shown in the top left corner of the image below)
-- Hot air exhaust port (from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)
-- 2x 2.9 x 16mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
-- 2x 3.9 x 25mm flat-headed screw (DIN7981; from the Screws / Fasteners bag)
-- Adhesives bag (not in the picture below)
+- Container adapter part *(from the Heating unit parts bag; the round black part shown in the top left corner of the image below)*
+- Hot air exhaust port *(from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)*
+- 2x 2.9 x 16mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 3.9 x 25mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- Adhesives bag *(not in the picture below)*
 - Microfiber cloth
 - Phillips screwdriver
 
