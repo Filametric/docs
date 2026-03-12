@@ -2,7 +2,7 @@
 
 # Chapter 1: Unboxing & checking components
 
-Before you begin assembly, unbox your DryBase kit and verify that all components are present. Lay everything out on a clean, flat surface.
+Before you begin the assembly, unbox your DryBase kit and verify that all components are present. Lay everything out on a clean, flat surface.
 
 ![Kit overview](../images/manual/ch1/kit-overview.webp)
 
