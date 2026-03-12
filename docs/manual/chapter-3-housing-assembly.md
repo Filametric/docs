@@ -169,10 +169,10 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 **d.** Tighten the front screw to secure the PSU in place.
 
-![Tighten front screw](../images/manual/ch3/ch3-step5-tighten-front.webp)
-
 !!! warning "Do not overtighten"
     The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the PSU sits firmly in place.
+
+![Tighten front screw](../images/manual/ch3/ch3-step5-tighten-front.webp)
 
 **e.** Drive the second 2.9 x 6.5mm flat-headed screw into the back mounting hole to fully secure the PSU.
 
