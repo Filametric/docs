@@ -38,8 +38,8 @@ The following workspace settings were changed from the default settings:
 | Setting | Value |
 |---|---|
 | Layer height | **0.2 mm** |
-| Sparse infill pattern | **Gyroid** |
 | Build plate | **Textured PEI** |
+| Sparse infill pattern | **Gyroid** |
 | Supports | **enabled** |
 | Type of support | **tree (auto)** |
 | Support style | **Tree Slim** |
