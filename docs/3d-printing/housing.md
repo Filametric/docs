@@ -1,13 +1,25 @@
 # DryBase Housing
 
+![DryBase Housing](../images/3d-printing/housing.webp)
+
 The DryBase housing is a single-part print with dimensions of **318 x 108 x 67 mm**. Any printer with a build plate large enough to accommodate these dimensions can be used. The 3MF file included with your kit is pre-configured for a Bambu Lab H2S printer with the settings below already applied, including modifiers for reinforced screw holes. If you are using a different printer, use the settings below as a reference.
 
 A STEP file is also included for users who wish to slice the model independently or adapt it for a different printer.
 
-## Downloads
+| | |
+|---|---|
+| **Estimated print time** | ~6 hours |
+| **Recommended material** | PLA |
 
-- [:material-download: DryBase Housing (.3mf)](../downloads/DryBase_Housing_3MF_File.3mf)
-- [:material-download: DryBase Housing (.step)](../downloads/DryBase_Housing_STEP_File.STEP)
+---
+
+## Before you print
+
+!!! warning "Clean your build plate"
+    Clean your build plate before printing to prevent warping. IPA alone is not sufficient. Wash the textured plate with lukewarm water and dish soap, then dry it thoroughly before placing it on the printer.
+
+!!! note "Pre-drying not required"
+    Pre-drying PLA is **not required** for this print.
 
 ---
 
@@ -23,10 +35,12 @@ It is recommended to use **PLA**, as it does not require pre-drying to achieve d
 
 The following workspace settings were changed from the default settings:
 
-- Sparse infill pattern = **Gyroid**
-- Supports = **enabled**
-- Type of support = **tree (auto)**
-- Support style = **Tree Slim**
+| Setting | Value |
+|---|---|
+| Sparse infill pattern | **Gyroid** |
+| Supports | **enabled** |
+| Type of support | **tree (auto)** |
+| Support style | **Tree Slim** |
 
 Furthermore, the surface directly above the USB-C port opening was manually painted to disable supports.
 
@@ -38,10 +52,7 @@ Lastly, (yellow) modifiers were added to the model to apply 100% infill to the s
 
 ---
 
-## Before you print
+## Downloads
 
-!!! warning "Clean your build plate"
-    Clean your build plate before printing to prevent warping. IPA alone is not sufficient. Wash the textured plate with lukewarm water and dish soap, then dry it thoroughly before placing it on the printer.
-
-!!! note "Pre-drying not required"
-    Pre-drying PLA is **not required** for this print.
+- [:material-download: DryBase Housing (.3mf)](../downloads/DryBase_Housing_3MF_File.3mf)
+- [:material-download: DryBase Housing (.step)](../downloads/DryBase_Housing_STEP_File.STEP)
