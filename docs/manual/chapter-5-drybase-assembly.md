@@ -6,7 +6,7 @@ In this chapter you will install the heating unit into the housing to complete y
 
 ![Chapter 5 result](../images/manual/ch5/ch5-result.webp)
 
-## Step 1: Installing the heating unit assembly into the housing
+## Step 1: Installing the heating unit into the housing
 
 **You will need:**
 

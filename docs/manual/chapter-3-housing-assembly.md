@@ -184,7 +184,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-## Step 6: Connecting the C6 inlet to the PSU & exhaust fan to the power board
+## Step 6: Connecting the C6 inlet and exhaust fan
 
 **You will need:**
 
@@ -221,7 +221,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-## Step 7: Placing the rubber feet on the housing
+## Step 7: Placing the rubber feet
 
 **You will need:**
 
@@ -241,7 +241,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ---
 
-## Step 8: Connecting the display and cables to the Main & Sensor board
+## Step 8: Connecting the display and Main & Sensor board
 
 **You will need:**
 
@@ -364,7 +364,7 @@ The image below shows how the assembly should look after both screws are tighten
 
 ---
 
-## Step 10: Connecting the Main board to the Power board and securing the Power board
+## Step 10: Connecting and securing the Power board
 
 **You will need:**
 

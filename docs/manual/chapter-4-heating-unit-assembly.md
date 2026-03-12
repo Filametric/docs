@@ -61,7 +61,7 @@ Confirm that the assembly matches the images below before continuing.
 
 ---
 
-## Step 2: Installing the heating element assembly onto the baseplate
+## Step 2: Installing the heating element on the baseplate
 
 **You will need:**
 
@@ -131,7 +131,7 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 
 ---
 
-## Step 3: Installing the blower fan, container adapter and hot air exhaust port
+## Step 3: Installing the blower fan, adapter and exhaust port
 
 **You will need:**
 
