@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Introduction](introduction.md){ .md-button }
 
 # Chapter 1: Unboxing & checking components

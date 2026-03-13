@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Chapter 1: Unboxing](chapter-1-unboxing.md){ .md-button }
 
 # Chapter 2: Preparing the DryBase housing

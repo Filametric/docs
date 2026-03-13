@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Chapter 3: Housing assembly](chapter-3-housing-assembly.md){ .md-button }
 
 # Chapter 4: Heating unit assembly

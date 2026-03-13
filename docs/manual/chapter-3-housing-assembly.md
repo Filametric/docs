@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Chapter 2: Preparing the housing](chapter-2-preparing-housing.md){ .md-button }
 
 # Chapter 3: Housing assembly

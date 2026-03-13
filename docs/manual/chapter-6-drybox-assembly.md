@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Chapter 5: DryBase assembly](chapter-5-drybase-assembly.md){ .md-button }
 
 # Chapter 6: Drybox assembly

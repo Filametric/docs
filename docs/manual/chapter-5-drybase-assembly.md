@@ -1,3 +1,6 @@
+---
+comments: true
+---
 [:octicons-arrow-left-24: Chapter 4: Heating unit assembly](chapter-4-heating-unit-assembly.md){ .md-button }
 
 # Chapter 5: DryBase assembly

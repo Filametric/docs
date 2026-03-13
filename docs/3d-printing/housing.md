@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # DryBase Housing
 
 ![DryBase Housing](../images/3d-printing/housing.webp)
