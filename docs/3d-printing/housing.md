@@ -30,7 +30,7 @@ A STEP file is also included for users who wish to slice the model independently
 
 The .3mf file uses the generic Bambu Lab PLA Basic profile. The only parameter that was changed is the **value for the auxiliary fan, which was set to 0%**. This was done to prevent warping as much as possible.
 
-It is recommended to use **PLA** (specifically Bambu Lab PLA Basic, which has been tested and validated for this model), as it does not require pre-drying to achieve dimensional accuracy and a quality surface finish.
+It is recommended to use **PLA**, as it does not require pre-drying to achieve dimensional accuracy and a quality surface finish. This model has been tested and validated with Bambu Lab PLA Basic, but other PLA brands should work as well.
 
 !!! warning "Other materials"
     Other materials such as PETG or ABS may work if the shrinkage/scaling factor is properly tuned, but have not been officially tested or validated. Using alternative materials is at your own risk and may affect dimensional accuracy, fit and assembly.
