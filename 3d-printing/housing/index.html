@@ -1641,22 +1641,37 @@
 
 
 <h2 id="__comments">Comments</h2>
-<script
-  src="https://giscus.app/client.js"
-  data-repo="Filametric/docs"
-  data-repo-id="R_kgDORl8J3g"
-  data-category="General"
-  data-category-id="DIC_kwDORl8J3s4C4S3S"
-  data-mapping="pathname"
-  data-strict="1"
-  data-reactions-enabled="1"
-  data-emit-metadata="0"
-  data-input-position="top"
-  data-theme="preferred_color_scheme"
-  data-lang="en"
-  data-loading="lazy"
-  crossorigin="anonymous"
-  async>
+<script>
+  var giscusTheme = document.body.getAttribute("data-md-color-scheme") === "slate" ? "dark" : "light";
+  var s = document.createElement("script");
+  s.src = "https://giscus.app/client.js";
+  s.setAttribute("data-repo", "Filametric/docs");
+  s.setAttribute("data-repo-id", "R_kgDORl8J3g");
+  s.setAttribute("data-category", "General");
+  s.setAttribute("data-category-id", "DIC_kwDORl8J3s4C4S3S");
+  s.setAttribute("data-mapping", "pathname");
+  s.setAttribute("data-strict", "1");
+  s.setAttribute("data-reactions-enabled", "1");
+  s.setAttribute("data-emit-metadata", "0");
+  s.setAttribute("data-input-position", "top");
+  s.setAttribute("data-theme", giscusTheme);
+  s.setAttribute("data-lang", "en");
+  s.setAttribute("data-loading", "lazy");
+  s.setAttribute("crossorigin", "anonymous");
+  s.async = true;
+  document.currentScript.parentNode.appendChild(s);
+
+  var observer = new MutationObserver(function() {
+    var theme = document.body.getAttribute("data-md-color-scheme") === "slate" ? "dark" : "light";
+    var iframe = document.querySelector(".giscus-frame");
+    if (iframe) {
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      );
+    }
+  });
+  observer.observe(document.body, { attributes: true, attributeFilter: ["data-md-color-scheme"] });
 </script>
 
                 
