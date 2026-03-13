@@ -1,0 +1,154 @@
+/* Logo sizing */
+.md-header__button.md-logo img {
+  height: 1.1rem;
+}
+
+/* Hide site name next to logo (already in logo SVG) */
+.md-header__topic .md-ellipsis {
+  display: none;
+}
+
+/* Filametric brand colors */
+:root {
+  --md-primary-fg-color: #1a1a1a;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark: #000000;
+  --md-accent-fg-color: #ff5500;
+  --md-accent-fg-color--transparent: #ff55001a;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1a1a1a;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark: #000000;
+  --md-accent-fg-color: #ff5500;
+  --md-accent-fg-color--transparent: #ff55001a;
+}
+
+/* Style admonitions to match Filametric look */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-color: #ff5500;
+}
+
+.md-typeset .warning > .admonition-title,
+.md-typeset .warning > summary {
+  background-color: #ff55001a;
+  border-color: #ff5500;
+}
+
+/* Links in dark mode */
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button) {
+  color: #fff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:not(.md-button):hover {
+  color: #ff5500;
+}
+
+/* Navigation buttons in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .md-button {
+  color: #fff;
+  border-color: #fff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button:hover {
+  color: #fff;
+  border-color: #ff5500;
+  background-color: #ff5500;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+  color: #fff;
+  border-color: #ff5500;
+  background-color: #ff5500;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-button--primary:hover {
+  color: #fff;
+  border-color: #cc4400;
+  background-color: #cc4400;
+}
+
+/* Active nav item highlight */
+.md-nav__link--active {
+  color: #ff5500 !important;
+}
+
+/* 3D Printing card grid */
+.print-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 24px;
+  margin: 24px 0;
+}
+
+.print-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: var(--md-default-fg-color) !important;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.print-card:hover {
+  border-color: #ff5500;
+  box-shadow: 0 2px 12px rgba(255, 85, 0, 0.15);
+}
+
+.print-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.print-card span {
+  padding: 12px 16px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Home page card icons */
+.md-typeset .grid.cards .card > :first-child .twemoji,
+.md-typeset .grid.cards > ul > li > :first-child .twemoji {
+  color: #ff5500;
+}
+
+/* Parts list styling */
+.parts-list {
+  background: var(--md-code-bg-color);
+  border-radius: 8px;
+  padding: 16px 24px;
+  margin: 16px 0;
+}
+
+.parts-list h4 {
+  margin-top: 0;
+  color: var(--md-accent-fg-color);
+}
+
+/* Step images */
+.step-image {
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  margin: 16px 0;
+}
+
+/* Assembly step layout */
+.assembly-step {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: start;
+  margin: 24px 0;
+}
+
+@media (max-width: 768px) {
+  .assembly-step {
+    grid-template-columns: 1fr;
+  }
+}
