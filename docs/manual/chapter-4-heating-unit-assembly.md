@@ -142,8 +142,8 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 - Blower fan *(from the Blower fan bag)*
 - Container adapter part *(from the Heating unit parts bag; the round black part shown in the top left corner of the image below)*
 - Hot air exhaust port *(from the Heating unit parts bag; the dark grey part shown in the top right corner of the image below)*
-- 2x 2.9 x 16mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
-- 2x 3.9 x 25mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 2.9 x 16mm round-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 3.9 x 25mm round-headed screw *(DIN7981; from the Screws / Fasteners bag)*
 - Adhesives bag *(not in the picture below)*
 - Microfiber cloth
 - Phillips screwdriver
@@ -154,7 +154,7 @@ Once released, confirm it sits flat and all mounting holes are aligned, as shown
 
 ![Fan placement](../images/manual/ch4/ch4-step3-fan-placement.webp)
 
-**b.** Using the 2x 3.9 x 25mm flat-headed screws and your Phillips screwdriver, secure the blower fan to the baseplate through both mounting holes.
+**b.** Using the 2x 3.9 x 25mm round-headed screws and your Phillips screwdriver, secure the blower fan to the baseplate through both mounting holes.
 
 !!! warning "Do not overtighten"
     The baseplate is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the blower fan sits firmly in place.
@@ -198,7 +198,7 @@ The tabs of the hot air exhaust port should sit fully flush with the bottom face
 
 ![Adapter placement](../images/manual/ch4/ch4-step3-adapter-placement.webp)
 
-**h.** While holding the assembly in place, secure the container adapter using the 2x 2.9 x 16mm flat-headed screws, one on each side, using your Phillips screwdriver.
+**h.** While holding the assembly in place, secure the container adapter using the 2x 2.9 x 16mm round-headed screws, one on each side, using your Phillips screwdriver.
 
 !!! warning "Do not overtighten"
     The container adapter is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the container adapter sits firmly in place.

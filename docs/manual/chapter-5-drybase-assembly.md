@@ -16,7 +16,7 @@ In this chapter you will install the heating unit into the housing to complete y
 - Completed housing assembly *(from Chapter 3)*
 - Completed heating unit assembly *(from Chapter 4)*
 - Moist air exhaust port *(final part from the Heating unit parts bag)*
-- 1x 2.9 x 6.5mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 1x 2.9 x 6.5mm round-headed screw *(DIN7981; from the Screws / Fasteners bag)*
 - 6x 2.9 x 9.5mm countersunk screw *(DIN7982; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
@@ -42,7 +42,7 @@ In this chapter you will install the heating unit into the housing to complete y
 
 ![Sensor board positioning](../images/manual/ch5/ch5-step1-sensor-board-position.webp)
 
-**e.** Using the 1x 2.9 x 6.5mm flat-headed screw and your Phillips screwdriver, secure the sensor board to the heating unit.
+**e.** Using the 1x 2.9 x 6.5mm round-headed screw and your Phillips screwdriver, secure the sensor board to the heating unit.
 
 !!! warning "Do not overtighten"
     The heating unit cover is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the sensor board sits firmly in place.

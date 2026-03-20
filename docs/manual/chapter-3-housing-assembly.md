@@ -46,7 +46,7 @@ The images below show how the correctly installed inlet looks from the outside a
 
 - Housing assembly *(from the previous step)*
 - Exhaust fan *(from the Exhaust fan bag)*
-- 1x 2.9 x 16mm flat-headed screw *(DIN7981; from the Screws / Fasteners bag)*
+- 1x 2.9 x 16mm round-headed screw *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -66,7 +66,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ![Cable routing close-up](../images/manual/ch3/ch3-step2-cable-routing-2.webp)
 
-**c.** Secure the fan using the 2.9 x 16mm flat-headed screw and your Phillips screwdriver.
+**c.** Secure the fan using the 2.9 x 16mm round-headed screw and your Phillips screwdriver.
 
 !!! warning "Do not overtighten"
     The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the fan sits firmly in place.
@@ -154,11 +154,11 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 - Housing assembly *(from a previous step)*
 - Power supply + attached cables & power board *(from the previous step)*
-- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 2.9 x 6.5mm round-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
-**a.** Place the housing on the microfiber cloth with the open side facing up. Drive a 2.9 x 6.5mm flat-headed screw into the front mounting hole as shown in the image below, leaving 2-3mm of spacing between the screw head and the housing. This acts as a rail to slide the PSU under.
+**a.** Place the housing on the microfiber cloth with the open side facing up. Drive a 2.9 x 6.5mm round-headed screw into the front mounting hole as shown in the image below, leaving 2-3mm of spacing between the screw head and the housing. This acts as a rail to slide the PSU under.
 
 ![Front screw as rail](../images/manual/ch3/ch3-step5-front-screw.webp)
 
@@ -177,7 +177,7 @@ Once seated, ensure the cables are routed along the inside wall of the housing a
 
 ![Tighten front screw](../images/manual/ch3/ch3-step5-tighten-front.webp)
 
-**e.** Drive the second 2.9 x 6.5mm flat-headed screw into the back mounting hole to fully secure the PSU.
+**e.** Drive the second 2.9 x 6.5mm round-headed screw into the back mounting hole to fully secure the PSU.
 
 ![Back screw](../images/manual/ch3/ch3-step5-back-screw.webp)
 
@@ -315,7 +315,7 @@ Confirm that the assembly matches the image below before continuing.
 
 - Housing assembly *(from a previous step)*
 - Display assembly *(from the previous step)*
-- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 2.9 x 6.5mm round-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Microfiber cloth
 - Phillips screwdriver
 
@@ -340,7 +340,7 @@ Confirm that the assembly matches the image below before continuing.
 
 ![Snap board into place](../images/manual/ch3/ch3-step9-snap-board.webp)
 
-**e.** Confirm that the Main board is flush with the housing and that the USB-C port is correctly seated in its slot. Then, using your Phillips screwdriver, secure the Main board with both 2.9 x 6.5mm flat-headed screws as shown in the image below. Continue holding the display in place with your left hand while tightening.
+**e.** Confirm that the Main board is flush with the housing and that the USB-C port is correctly seated in its slot. Then, using your Phillips screwdriver, secure the Main board with both 2.9 x 6.5mm round-headed screws as shown in the image below. Continue holding the display in place with your left hand while tightening.
 
 !!! warning "Do not overtighten"
     The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the Main board sits firmly in place.
@@ -372,7 +372,7 @@ The image below shows how the assembly should look after both screws are tighten
 **You will need:**
 
 - Housing assembly *(from a previous step)*
-- 2x 2.9 x 6.5mm flat-headed screws *(DIN7981; from the Screws / Fasteners bag)*
+- 2x 2.9 x 6.5mm round-headed screws *(DIN7981; from the Screws / Fasteners bag)*
 - Phillips screwdriver
 
 **a.** Locate the 8-pin cable coming from the Main board and insert it into the connector labeled **'MAIN'** on the Power board. A clear click should be heard when fully seated. Give the cable a gentle tug to confirm it is secure.
@@ -386,7 +386,7 @@ The image below shows how the assembly should look after both screws are tighten
 
 ![Insert power board](../images/manual/ch3/ch3-step10-insert-board.webp)
 
-**c.** Once the board is correctly seated, align both mounting holes and secure the Power board using the two 2.9 x 6.5mm flat-headed screws. Angling the screwdriver slightly may help reach the holes more easily.
+**c.** Once the board is correctly seated, align both mounting holes and secure the Power board using the two 2.9 x 6.5mm round-headed screws. Angling the screwdriver slightly may help reach the holes more easily.
 
 !!! warning "Do not overtighten"
     The housing is 3D-printed and the material can crack or strip if too much force is applied. Stop as soon as the Power board sits firmly in place.
