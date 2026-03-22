@@ -10,7 +10,7 @@ Select a product below to view its printable components.
 </a>
 
 <a class="print-card" href="../../3d-printing/drybox/">
-  <img src="../../images/3d-printing/drybox.webp" alt="Drybox">
+  <img src="../../images/3d-printing/drybox-card.webp" alt="Drybox">
   <span>Drybox</span>
 </a>
 

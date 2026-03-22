@@ -76,9 +76,20 @@ nav:
     - "6. Drybox assembly": manual/chapter-6-drybox-assembly.md
   - 3D Printing:
     - Overview: 3d-printing/guide.md
-    - DryBase: 3d-printing/drybase.md
-    - DryBase Housing: 3d-printing/housing.md
-    - Drybox: 3d-printing/drybox.md
+    - DryBase:
+      - Overview: 3d-printing/drybase.md
+      - Housing: 3d-printing/housing.md
+      - Moist air exhaust port: 3d-printing/moist-air-exhaust-port.md
+      - Heating unit baseplate: 3d-printing/heating-unit-baseplate.md
+      - Heating element top cover: 3d-printing/heating-element-top-cover.md
+      - Heating element bottom cover: 3d-printing/heating-element-bottom-cover.md
+      - Hot air exhaust port: 3d-printing/hot-air-exhaust-port.md
+      - Container adapter: 3d-printing/container-adapter.md
+    - Drybox:
+      - Overview: 3d-printing/drybox.md
+      - Spool holder: 3d-printing/spool-holder.md
+      - Closing fastener: 3d-printing/closing-fastener.md
+      - Grommet: 3d-printing/grommet.md
   - DryBase Firmware:
     - Overview: firmware/overview.md
     - Getting Started: firmware/getting-started.md

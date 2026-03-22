@@ -5,12 +5,13 @@ comments: true
 
 ![DryBase Housing](../images/3d-printing/housing.webp)
 
-The DryBase housing is a single-part print with dimensions of **318 x 108 x 67 mm**. Any printer with a build plate large enough to accommodate these dimensions can be used. The 3MF file included with your kit is pre-configured for a Bambu Lab H2S printer with the settings below already applied, including modifiers for reinforced screw holes. If you are using a different printer, use the settings below as a reference.
+The DryBase housing is a single-part print with dimensions of **318 x 108 x 67 mm**. Any printer with a build plate large enough to accommodate these dimensions can be used. The 3MF file is pre-configured for a Bambu Lab H2S printer with the settings below already applied, including modifiers for reinforced screw holes. If you are using a different printer, use the settings below as a reference.
 
 A STEP file is also included for users who wish to slice the model independently or adapt it for a different printer.
 
 | | |
 |---|---|
+| **Dimensions** | 318 x 108 x 67 mm |
 | **Estimated print time** | ~6 hours |
 | **Recommended material** | PLA |
 
@@ -50,6 +51,9 @@ The following workspace settings were changed from the default settings:
 | Type of support | **tree (auto)** |
 | Support style | **Tree Slim** |
 
+!!! note "No adhesives needed"
+    No glue or other adhesives are required on the build plate for this print, as long as the plate is properly cleaned.
+
 Furthermore, the surface directly above the USB-C port opening was manually painted to disable supports.
 
 ![Support blocker](../images/3d-printing/housing-support-blocker.webp)
@@ -60,7 +64,16 @@ Lastly, (yellow) modifiers were added to the model to apply 100% infill to the s
 
 ---
 
+## License
+
+!!! note "CC BY-NC 4.0"
+    All files on this page are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}. You are free to download, print, share and adapt them, as long as you credit Filametric and do not use them for commercial purposes.
+
+---
+
 ## Downloads
 
 - [:material-download: DryBase Housing (.3mf)](../downloads/DryBase_Housing_3MF_File.3mf)
 - [:material-download: DryBase Housing (.step)](../downloads/DryBase_Housing_STEP_File.STEP)
+
+
