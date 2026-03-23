@@ -37,7 +37,7 @@ The .3mf file uses the generic Bambu Lab ABS profile. No parameters were changed
 It is recommended to use **ABS**, as this part has been tested and validated with Bambu Lab ABS. Other ABS brands should work as well.
 
 !!! warning "Other materials"
-    Other materials may work but have not been officially tested or validated. Using alternative materials is at your own risk and may affect dimensional accuracy and fit.
+    Other materials may work, but must have at least the same heat resistance as ABS, as these parts are exposed to elevated temperatures during operation. Alternative materials have not been officially tested or validated. Using them is at your own risk and may affect dimensional accuracy and fit.
 
 ---
 
