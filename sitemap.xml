@@ -57,19 +57,31 @@
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://docs.filametric.com/firmware/changelog/</loc>
+         <loc>https://docs.filametric.com/drybase/changelog/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://docs.filametric.com/firmware/getting-started/</loc>
+         <loc>https://docs.filametric.com/drybase/firmware/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://docs.filametric.com/firmware/overview/</loc>
+         <loc>https://docs.filametric.com/drybase/getting-started/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://docs.filametric.com/firmware/updating/</loc>
+         <loc>https://docs.filametric.com/drybase/overview/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.filametric.com/drybase/troubleshooting/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.filametric.com/drybase/updating/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.filametric.com/drybox/overview/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
@@ -113,19 +125,15 @@
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
+         <loc>https://docs.filametric.com/studio/troubleshooting/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
          <loc>https://docs.filametric.com/support/contact/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
          <loc>https://docs.filametric.com/support/faq/</loc>
-         <lastmod>2026-03-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.filametric.com/troubleshooting/drybase/</loc>
-         <lastmod>2026-03-23</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.filametric.com/troubleshooting/filametric-studio/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
 </urlset>
