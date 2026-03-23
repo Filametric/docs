@@ -38,12 +38,13 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Nozzle temperature (initial + other layers) | **280 °C** |
 | Part cooling fan | **off** |
 | Density | **1.2** |
+| Chamber temperature | **0 °C (off)** |
 | Wipe while retraction | **enabled** |
 
 This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component.
 
 !!! note "Printer-specific settings"
-    The flow ratio of **0.864** was calibrated on a Bambu Lab H2S and may vary depending on your printer. The bed temperature of **40 °C** is specifically tuned for Fiberon's warp-free technology. Other PA6-GF variants may require different flow ratios and bed temperatures. Always calibrate for your setup.
+    The flow ratio of **0.864** was calibrated on a Bambu Lab H2S and may vary depending on your printer. The bed temperature of **40 °C** and disabled chamber heating are specifically tuned for Fiberon's warp-free technology. Other PA6-GF variants may require different flow ratios, bed and chamber temperatures. Always calibrate for your setup.
 
 !!! warning "No alternative material types"
     This part is directly exposed to high temperatures during operation. Do **not** use PLA, PETG, ABS or other materials with a lower heat deflection temperature. Using an unsuitable material may result in deformation, failure, or a safety hazard. Other PA6-GF brands may work, but have not been officially tested or validated.
