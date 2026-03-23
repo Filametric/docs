@@ -60,7 +60,7 @@ The following workspace settings were changed from the default settings:
 
 The baseplate has six nut pockets with cavities underneath. Support blockers have been manually painted inside these cavities to prevent support material from being generated there, as it would be very difficult to remove after printing. The support material in the nut pockets themselves is left in place and can be removed easily.
 
-The image below shows the six support blockers (orange) highlighted with red circles:
+The image below shows the six cavities highlighted with red circles. The small red dots inside each cavity are the manually painted support blockers:
 
 ![Support blockers](../images/3d-printing/heating-unit-baseplate-support-blockers.webp)
 
