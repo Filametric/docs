@@ -38,6 +38,7 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Nozzle temperature (initial + other layers) | **280 °C** |
 | Part cooling fan | **off** |
 | Density | **1.2** |
+| Wipe while retraction | **enabled** |
 
 This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component.
 
@@ -55,6 +56,7 @@ The following workspace settings were changed from the default settings:
 
 | Setting | Value |
 |---|---|
+| Nozzle | **0.4 mm** |
 | Layer height | **0.2 mm** |
 | Build plate | **Engineering plate** |
 | Sparse infill pattern | **Gyroid** |

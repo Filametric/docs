@@ -44,6 +44,7 @@ The following workspace settings were changed from the default settings:
 
 | Setting | Value |
 |---|---|
+| Nozzle | **0.4 mm** |
 | Layer height | **0.2 mm** |
 | Build plate | **Textured PEI** |
 | Sparse infill pattern | **Gyroid** |
