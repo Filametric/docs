@@ -12,7 +12,7 @@ A STEP file is also included for users who wish to slice the model independently
 | | |
 |---|---|
 | **Dimensions** | 318 x 108 x 67 mm |
-| **Estimated print time** | ~6 hours |
+| **Estimated print time** | ~6 hours 8 minutes |
 | **Recommended material** | PLA |
 
 ---
