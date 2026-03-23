@@ -90,18 +90,20 @@ nav:
       - Spool holder: 3d-printing/spool-holder.md
       - Closing fastener: 3d-printing/closing-fastener.md
       - Grommet: 3d-printing/grommet.md
-  - DryBase Firmware:
-    - Overview: firmware/overview.md
-    - Getting Started: firmware/getting-started.md
-    - Updating: firmware/updating.md
-    - Changelog: firmware/changelog.md
+  - DryBase:
+    - Overview: drybase/overview.md
+    - Firmware: drybase/firmware.md
+    - Getting Started: drybase/getting-started.md
+    - Updating: drybase/updating.md
+    - Changelog: drybase/changelog.md
+    - Troubleshooting: drybase/troubleshooting.md
+  - Drybox:
+    - Overview: drybox/overview.md
   - Filametric Studio:
     - Overview: studio/overview.md
     - Getting Started: studio/getting-started.md
     - Download: studio/download.md
-  - Troubleshooting:
-    - DryBase: troubleshooting/drybase.md
-    - Filametric Studio: troubleshooting/filametric-studio.md
+    - Troubleshooting: studio/troubleshooting.md
   - Support:
     - FAQ: support/faq.md
     - Contact: support/contact.md

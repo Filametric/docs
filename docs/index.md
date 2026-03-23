@@ -5,54 +5,37 @@ hide:
 
 # Filametric Documentation
 
-<div class="grid cards" markdown>
+<div class="print-grid" markdown>
 
--   :material-book-open-variant:{ .lg .middle } **Assembly Manual**
+<a class="print-card" href="manual/introduction/">
+  <img src="images/home/assembly-manual-card.webp" alt="Assembly Manual">
+  <span>Assembly Manual</span>
+</a>
 
-    ---
+<a class="print-card" href="3d-printing/guide/">
+  <img src="images/3d-printing/3d-printing-home-card.webp" alt="3D Printing">
+  <span>3D Printing</span>
+</a>
 
-    Build your DryBase step by step with detailed assembly instructions.
+<a class="print-card" href="drybase/overview/">
+  <img src="images/home/drybase-card.webp" alt="DryBase">
+  <span>DryBase</span>
+</a>
 
-    [:octicons-arrow-right-24: Start building](manual/introduction.md)
+<a class="print-card" href="drybox/overview/">
+  <img src="images/home/drybox-card.webp" alt="Drybox">
+  <span>Drybox</span>
+</a>
 
--   :material-printer-3d:{ .lg .middle } **3D Printing**
+<a class="print-card" href="studio/overview/">
+  <img class="only-light" src="images/home/studio-card-light.webp" alt="Filametric Studio">
+  <img class="only-dark" src="images/home/studio-card-dark.webp" alt="Filametric Studio">
+  <span>Filametric Studio</span>
+</a>
 
-    ---
-
-    Print settings, material requirements, and downloadable files.
-
-    [:octicons-arrow-right-24: Printing guide](3d-printing/guide.md)
-
--   :material-chip:{ .lg .middle } **DryBase Firmware**
-
-    ---
-
-    Setup, configuration, and firmware updates for your DryBase.
-
-    [:octicons-arrow-right-24: Firmware docs](firmware/overview.md)
-
--   :material-monitor:{ .lg .middle } **Filametric Studio**
-
-    ---
-
-    Setup, usage, and tips for the Filametric Studio desktop app.
-
-    [:octicons-arrow-right-24: Learn more](studio/overview.md)
-
--   :material-wrench:{ .lg .middle } **Troubleshooting**
-
-    ---
-
-    Error codes, common issues, and fixes for DryBase and Studio.
-
-    [:octicons-arrow-right-24: Get help](troubleshooting/drybase.md)
-
--   :material-lifebuoy:{ .lg .middle } **Support**
-
-    ---
-
-    FAQ, contact, and warranty information.
-
-    [:octicons-arrow-right-24: Support](support/faq.md)
+<a class="print-card" href="support/faq/">
+  <img src="images/home/support-card.webp" alt="Support">
+  <span>Support</span>
+</a>
 
 </div>

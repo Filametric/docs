@@ -1,3 +1,3 @@
-# DryBase Troubleshooting
+# Troubleshooting
 
 This page is coming soon.

@@ -113,12 +113,38 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  object-position: right;
+}
+
+/* Light/dark mode image switching */
+.print-card img.only-dark {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .print-card img.only-light {
+  display: none;
+}
+
+[data-md-color-scheme="slate"] .print-card img.only-dark {
+  display: block;
 }
 
 .print-card span {
   padding: 12px 16px;
   font-weight: 600;
   text-align: center;
+}
+
+.print-card-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  padding: 12px 16px;
+  font-weight: 600;
+  text-align: center;
+  color: var(--md-default-fg-color--light) !important;
 }
 
 /* Home page card icons */
