@@ -37,9 +37,18 @@
   border-color: #ff5500;
 }
 
+/* Links in light mode */
+.md-typeset a:not(.md-button) {
+  color: #1a73e8;
+}
+
+.md-typeset a:not(.md-button):hover {
+  color: #ff5500;
+}
+
 /* Links in dark mode */
 [data-md-color-scheme="slate"] .md-typeset a:not(.md-button) {
-  color: #fff;
+  color: #5b9bf5;
 }
 
 [data-md-color-scheme="slate"] .md-typeset a:not(.md-button):hover {
