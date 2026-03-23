@@ -64,7 +64,7 @@ The image below shows the six cavities highlighted with red circles. The small r
 
 ![Support blockers](../images/3d-printing/heating-unit-baseplate-support-blockers.webp)
 
-The image below shows the sliced result. Notice how support material is present in the nut pockets but not in the cavities underneath:
+The image below shows the sliced result:
 
 ![Sliced result](../images/3d-printing/heating-unit-baseplate-sliced.webp)
 
