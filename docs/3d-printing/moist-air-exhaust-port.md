@@ -71,6 +71,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Moist Air Exhaust Port (.3mf)](../downloads/Filametric_Moist_Air_Exhaust_Port_3MF.3mf)
 - [:material-download: Moist Air Exhaust Port (.step)](../downloads/Filametric_Moist_Air_Exhaust_Port_STEP.step)
 
 

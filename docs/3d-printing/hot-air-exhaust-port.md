@@ -84,6 +84,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Hot Air Exhaust Port (.3mf)](../downloads/Filametric_Hot_Air_Exhaust_Port_3MF.3mf)
 - [:material-download: Hot Air Exhaust Port (.step)](../downloads/Filametric_Hot_Air_Exhaust_Port_STEP.step)
 
 

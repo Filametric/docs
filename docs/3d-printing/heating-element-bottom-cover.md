@@ -85,6 +85,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Heating Element Bottom Cover (.3mf)](../downloads/Filametric_Heating_Element_Bottom_Cover_3MF.3mf)
 - [:material-download: Heating Element Bottom Cover (.step)](../downloads/Filametric_Heating_Element_Bottom_Cover_STEP.step)
 
 

@@ -73,6 +73,7 @@ Two (yellow) modifiers were added to the model to apply 100% infill around the s
 
 ## Downloads
 
+- [:material-download: Container Adapter (.3mf)](../downloads/Filametric_Container_Adapter_3MF.3mf)
 - [:material-download: Container Adapter (.step)](../downloads/Filametric_Container_Adapter_STEP.step)
 
 

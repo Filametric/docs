@@ -85,6 +85,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Heating Unit Baseplate (.3mf)](../downloads/Filametric_Heating_Unit_Baseplate_3MF.3mf)
 - [:material-download: Heating Unit Baseplate (.step)](../downloads/Filametric_Heating_Unit_Baseplate_STEP.step)
 
 

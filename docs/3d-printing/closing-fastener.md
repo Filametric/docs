@@ -84,6 +84,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Closing Fastener (.3mf)](../downloads/Filametric_Closing_Fastener_3MF.3mf)
 - [:material-download: Closing Fastener (.step)](../downloads/Filametric_Closing_Fastener_STEP.step)
 
 

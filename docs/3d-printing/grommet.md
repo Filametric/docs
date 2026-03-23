@@ -65,6 +65,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Grommet (.3mf)](../downloads/Filametric_Grommet_3MF.3mf)
 - [:material-download: Grommet (.step)](../downloads/Filametric_Grommet_STEP.step)
 
 

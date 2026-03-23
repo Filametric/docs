@@ -71,6 +71,7 @@ The image below shows the sliced result:
 
 ## Downloads
 
+- [:material-download: Spool Holder (.3mf)](../downloads/Filametric_Spool_Holder_3MF.3mf)
 - [:material-download: Spool Holder (.step)](../downloads/Filametric_Spool_Holder_STEP.step)
 
 
