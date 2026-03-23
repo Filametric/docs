@@ -19,7 +19,7 @@ A STEP file is also included for users who wish to slice the model independently
 
 ## Before you print
 
-!!! warning "Filament drying is mandatory"
+!!! warning "Pre-drying is required"
     PA6-GF is extremely sensitive to moisture and **must** be dried before printing. For Polymaker PA6-GF20 Fiberon, dry at **100 °C for at least 12 hours** and keep the filament actively heated at a minimum of **80 °C** during printing to prevent moisture re-absorption. Other PA6-GF variants may have different drying requirements. Always follow the filament manufacturer's instructions.
 
 !!! warning "Proper ventilation required"
@@ -39,7 +39,10 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Part cooling fan | **off** |
 | Density | **1.2** |
 
-This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component. Note that the bed temperature settings above are specifically tuned for Fiberon's warp-free technology. Other PA6-GF variants may require different bed temperatures.
+This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component.
+
+!!! note "Printer-specific settings"
+    The flow ratio of **0.864** was calibrated on a Bambu Lab H2S and may vary depending on your printer. The bed temperature of **40 �C** is specifically tuned for Fiberon's warp-free technology. Other PA6-GF variants may require different flow ratios and bed temperatures. Always calibrate for your setup.
 
 !!! warning "No alternative materials"
     This part is directly exposed to high temperatures during operation. Do **not** use PLA, PETG, ABS or other materials with a lower heat deflection temperature. Using an unsuitable material may result in deformation, failure, or a safety hazard.
