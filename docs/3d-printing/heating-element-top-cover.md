@@ -39,7 +39,7 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Part cooling fan | **off** |
 | Density | **1.2** |
 
-This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component.
+This part has been tested and validated with **Polymaker PA6-GF20 Fiberon**. This is currently the only verified filament for this component. Note that the bed temperature settings above are specifically tuned for Fiberon's warp-free technology. Other PA6-GF variants may require different bed temperatures.
 
 !!! warning "No alternative materials"
     This part is directly exposed to high temperatures during operation. Do **not** use PLA, PETG, ABS or other materials with a lower heat deflection temperature. Using an unsuitable material may result in deformation, failure, or a safety hazard.
