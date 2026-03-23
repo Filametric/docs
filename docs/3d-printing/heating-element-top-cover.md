@@ -20,7 +20,7 @@ A STEP file is also included for users who wish to slice the model independently
 ## Before you print
 
 !!! warning "Pre-drying is required"
-    PA6-GF is extremely sensitive to moisture and **must** be dried before printing. For Polymaker PA6-GF20 Fiberon, dry at **100 Â°C for at least 12 hours** and keep the filament actively heated at a minimum of **80 Â°C** during printing to prevent moisture re-absorption. Other PA6-GF variants may have different drying requirements. Always follow the filament manufacturer's instructions.
+    PA6-GF is extremely sensitive to moisture and **must** be dried before printing. For Polymaker PA6-GF20 Fiberon, dry at **100 °C for at least 12 hours** and keep the filament actively heated at a minimum of **80 °C** during printing to prevent moisture re-absorption. Other PA6-GF variants may have different drying requirements. Always follow the filament manufacturer's instructions.
 
 !!! warning "Proper ventilation required"
     PA6-GF produces fumes during printing. Make sure your printer is enclosed and the room is well ventilated.
@@ -34,8 +34,8 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Setting | Value |
 |---|---|
 | Flow ratio | **0.864** |
-| Bed temperature (initial + other layers) | **40 Â°C** |
-| Nozzle temperature (initial + other layers) | **280 Â°C** |
+| Bed temperature (initial + other layers) | **40 °C** |
+| Nozzle temperature (initial + other layers) | **280 °C** |
 | Part cooling fan | **off** |
 | Density | **1.2** |
 
