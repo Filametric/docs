@@ -12,7 +12,7 @@ A STEP file is also included for users who wish to slice the model independently
 | | |
 |---|---|
 | **Dimensions** | 218.8 x 98.1 x 17.2 mm |
-| **Estimated print time** | ~1 hour 39 minutes |
+| **Estimated print time** | ~1 hour 41 minutes |
 | **Recommended material** | ABS |
 
 ---
