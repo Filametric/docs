@@ -67,13 +67,13 @@ Lastly, (yellow) modifiers were added to the model to apply 100% infill to the s
 ## License
 
 !!! note "CC BY-NC 4.0"
-    All files on this page are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}. You are free to download, print, share and adapt them, as long as you credit Filametric and do not use them for commercial purposes.
+    All files on this page are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}. You are free to download, print, share and adapt them, as long as you credit Filametric and do not use them for commercial purposes. Printing parts for your own personal or business use is permitted. Selling the files or using them to build competing products is not.
 
 ---
 
 ## Downloads
 
-- [:material-download: DryBase Housing (.3mf)](../downloads/DryBase_Housing_3MF_File.3mf)
-- [:material-download: DryBase Housing (.step)](../downloads/DryBase_Housing_STEP_File.STEP)
+- [:material-download: Housing (.3mf)](../downloads/Filametric_Housing_3MF.3mf)
+- [:material-download: Housing (.step)](../downloads/Filametric_Housing_STEP.step)
 
 
