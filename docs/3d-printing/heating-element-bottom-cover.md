@@ -20,7 +20,7 @@ A STEP file is also included for users who wish to slice the model independently
 ## Before you print
 
 !!! warning "Filament drying is mandatory"
-    PA6-GF is extremely sensitive to moisture and **must** be dried before printing. Dry the filament at **100 °C for at least 12 hours**. During printing, keep the filament actively heated at a minimum of **80 °C** to prevent moisture re-absorption.
+    PA6-GF is extremely sensitive to moisture and **must** be dried before printing. For Polymaker PA6-GF20 Fiberon, dry at **100 °C for at least 12 hours** and keep the filament actively heated at a minimum of **80 °C** during printing to prevent moisture re-absorption. Other PA6-GF variants may have different drying requirements. Always follow the filament manufacturer's instructions.
 
 !!! warning "Proper ventilation required"
     PA6-GF produces fumes during printing. Make sure your printer is enclosed and the room is well ventilated.
