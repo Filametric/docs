@@ -55,13 +55,21 @@ The following workspace settings were changed from the default settings:
 !!! note "No adhesives needed"
     No glue or other adhesives are required on the build plate for this print, as long as the plate is properly cleaned.
 
-Furthermore, the surface directly above the USB-C port opening was manually painted to disable supports.
+### Support blockers
+
+The surface directly above the USB-C port opening was manually painted to disable supports.
 
 ![Support blocker](../images/3d-printing/housing-support-blocker.webp)
 
-Lastly, (yellow) modifiers were added to the model to apply 100% infill to the screw hole areas to ensure a strong, reliable connection during assembly. **Do not remove or modify them.**
+### Modifiers
+
+Two (yellow) modifiers were added to the model to apply 100% infill to the screw hole areas to ensure a strong, reliable connection during assembly. **Do not remove or modify them.**
 
 ![Modifiers](../images/3d-printing/housing-modifiers.webp)
+
+The image below shows the sliced result:
+
+![Sliced result](../images/3d-printing/housing-sliced.webp)
 
 ---
 

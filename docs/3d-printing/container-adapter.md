@@ -59,6 +59,10 @@ Two (yellow) modifiers were added to the model to apply 100% infill around the s
 
 ![Modifiers](../images/3d-printing/container-adapter-modifiers.webp)
 
+The image below shows the sliced result:
+
+![Sliced result](../images/3d-printing/container-adapter-sliced.webp)
+
 ---
 
 ## License & Disclaimer
