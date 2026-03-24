@@ -36,7 +36,6 @@ The .3mf file uses a modified Bambu Lab PA6-GF profile. The following parameters
 | Flow ratio | **0.864** |
 | Bed temperature (initial + other layers) | **40 °C** |
 | Nozzle temperature (initial + other layers) | **280 °C** |
-| Part cooling fan | **off** |
 | Density | **1.2** |
 | Chamber temperature | **0 °C (off)** |
 | Wipe while retraction | **enabled** |
