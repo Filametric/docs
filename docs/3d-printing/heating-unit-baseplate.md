@@ -53,6 +53,7 @@ The following workspace settings were changed from the default settings:
 | Sparse infill pattern | **Gyroid** |
 | Supports | **enabled** |
 | Type of support | **tree (auto)** |
+| Support style | **Default** |
 
 !!! note "No adhesives needed"
     No glue or other adhesives are required on the engineering plate for this print.
